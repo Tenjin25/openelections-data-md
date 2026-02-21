@@ -1,0 +1,557 @@
+county,precinct,office,district,party,candidate,votes,winner
+Allegany,,President,,Democratic,Bill Clinton/Albert Gore Jr.,11025,TRUE
+Allegany,,President,,Republican,Bob Dole/Jack Kemp,12136,
+Allegany,,President,,Libertarian,Harry Browne/Jo Joregensen,108,
+Allegany,,President,,Reform,Ross Perot/James Campbell,2652,
+Allegany,,President,,Natural-Law,John Hagelin/Vinton Tompkins,33,
+Allegany,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,42,
+Allegany,,President,,Democratic,Willie Felix Carter,0,
+Allegany,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Allegany,,President,,Republican,Harriet H. Gleason,0,
+Allegany,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Allegany,,President,,Republican,Isabell Masters,0,
+Allegany,,President,,Independent,Charles E. Collins/Rosemary Giumarra,1,
+Allegany,,President,,Independent,Keith Judd,0,
+Allegany,,President,,Independent,Ralph Nader,5,
+Allegany,,President,,Other,Mary Cal Hollis,0,
+Anne Arundel,,President,,Democratic,Bill Clinton/Albert Gore Jr.,72147,TRUE
+Anne Arundel,,President,,Republican,Bob Dole/Jack Kemp,83574,
+Anne Arundel,,President,,Libertarian,Harry Browne/Jo Joregensen,908,
+Anne Arundel,,President,,Reform,Ross Perot/James Campbell,14287,
+Anne Arundel,,President,,Natural-Law,John Hagelin/Vinton Tompkins,187,
+Anne Arundel,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,361,
+Anne Arundel,,President,,Democratic,Willie Felix Carter,1,
+Anne Arundel,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Anne Arundel,,President,,Republican,Harriet H. Gleason,2,
+Anne Arundel,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Anne Arundel,,President,,Republican,Isabell Masters,0,
+Anne Arundel,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Anne Arundel,,President,,Independent,Keith Judd,0,
+Anne Arundel,,President,,Independent,Ralph Nader,216,
+Anne Arundel,,President,,Other,Mary Cal Hollis,2,
+Baltimore City,,President,,Democratic,Bill Clinton/Albert Gore Jr.,145441,TRUE
+Baltimore City,,President,,Republican,Bob Dole/Jack Kemp,28467,
+Baltimore City,,President,,Libertarian,Harry Browne/Jo Joregensen,888,
+Baltimore City,,President,,Reform,Ross Perot/James Campbell,7473,
+Baltimore City,,President,,Natural-Law,John Hagelin/Vinton Tompkins,363,
+Baltimore City,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,393,
+Baltimore City,,President,,Democratic,Willie Felix Carter,1,
+Baltimore City,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Baltimore City,,President,,Republican,Harriet H. Gleason,0,
+Baltimore City,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Baltimore City,,President,,Republican,Isabell Masters,0,
+Baltimore City,,President,,Independent,Charles E. Collins/Rosemary Giumarra,1,
+Baltimore City,,President,,Independent,Keith Judd,0,
+Baltimore City,,President,,Independent,Ralph Nader,296,
+Baltimore City,,President,,Other,Mary Cal Hollis,0,
+Baltimore,,President,,Democratic,Bill Clinton/Albert Gore Jr.,132599,TRUE
+Baltimore,,President,,Republican,Bob Dole/Jack Kemp,114449,
+Baltimore,,President,,Libertarian,Harry Browne/Jo Joregensen,1592,
+Baltimore,,President,,Reform,Ross Perot/James Campbell,20393,
+Baltimore,,President,,Natural-Law,John Hagelin/Vinton Tompkins,287,
+Baltimore,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,648,
+Baltimore,,President,,Democratic,Willie Felix Carter,0,
+Baltimore,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Baltimore,,President,,Republican,Harriet H. Gleason,0,
+Baltimore,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Baltimore,,President,,Republican,Isabell Masters,0,
+Baltimore,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Baltimore,,President,,Independent,Keith Judd,0,
+Baltimore,,President,,Independent,Ralph Nader,0,
+Baltimore,,President,,Other,Mary Cal Hollis,0,
+Calvert,,President,,Democratic,Bill Clinton/Albert Gore Jr.,10008,TRUE
+Calvert,,President,,Republican,Bob Dole/Jack Kemp,11509,
+Calvert,,President,,Libertarian,Harry Browne/Jo Joregensen,66,
+Calvert,,President,,Reform,Ross Perot/James Campbell,1932,
+Calvert,,President,,Natural-Law,John Hagelin/Vinton Tompkins,18,
+Calvert,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,20,
+Calvert,,President,,Democratic,Willie Felix Carter,0,
+Calvert,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Calvert,,President,,Republican,Harriet H. Gleason,0,
+Calvert,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Calvert,,President,,Republican,Isabell Masters,0,
+Calvert,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Calvert,,President,,Independent,Keith Judd,0,
+Calvert,,President,,Independent,Ralph Nader,13,
+Calvert,,President,,Other,Mary Cal Hollis,0,
+Caroline,,President,,Democratic,Bill Clinton/Albert Gore Jr.,3251,TRUE
+Caroline,,President,,Republican,Bob Dole/Jack Kemp,3874,
+Caroline,,President,,Libertarian,Harry Browne/Jo Joregensen,63,
+Caroline,,President,,Reform,Ross Perot/James Campbell,947,
+Caroline,,President,,Natural-Law,John Hagelin/Vinton Tompkins,10,
+Caroline,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,26,
+Caroline,,President,,Democratic,Willie Felix Carter,0,
+Caroline,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Caroline,,President,,Republican,Harriet H. Gleason,0,
+Caroline,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Caroline,,President,,Republican,Isabell Masters,0,
+Caroline,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Caroline,,President,,Independent,Keith Judd,0,
+Caroline,,President,,Independent,Ralph Nader,6,
+Caroline,,President,,Other,Mary Cal Hollis,0,
+Carroll,,President,,Democratic,Bill Clinton/Albert Gore Jr.,17122,TRUE
+Carroll,,President,,Republican,Bob Dole/Jack Kemp,30316,
+Carroll,,President,,Libertarian,Harry Browne/Jo Joregensen,359,
+Carroll,,President,,Reform,Ross Perot/James Campbell,4873,
+Carroll,,President,,Natural-Law,John Hagelin/Vinton Tompkins,58,
+Carroll,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,230,
+Carroll,,President,,Democratic,Willie Felix Carter,0,
+Carroll,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Carroll,,President,,Republican,Harriet H. Gleason,0,
+Carroll,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Carroll,,President,,Republican,Isabell Masters,0,
+Carroll,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Carroll,,President,,Independent,Keith Judd,0,
+Carroll,,President,,Independent,Ralph Nader,39,
+Carroll,,President,,Other,Mary Cal Hollis,0,
+Cecil,,President,,Democratic,Bill Clinton/Albert Gore Jr.,10144,TRUE
+Cecil,,President,,Republican,Bob Dole/Jack Kemp,10885,
+Cecil,,President,,Libertarian,Harry Browne/Jo Joregensen,221,
+Cecil,,President,,Reform,Ross Perot/James Campbell,3124,
+Cecil,,President,,Natural-Law,John Hagelin/Vinton Tompkins,26,
+Cecil,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,46,
+Cecil,,President,,Democratic,Willie Felix Carter,0,
+Cecil,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Cecil,,President,,Republican,Harriet H. Gleason,0,
+Cecil,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Cecil,,President,,Republican,Isabell Masters,0,
+Cecil,,President,,Independent,Charles E. Collins/Rosemary Giumarra,1,
+Cecil,,President,,Independent,Keith Judd,0,
+Cecil,,President,,Independent,Ralph Nader,13,
+Cecil,,President,,Other,Mary Cal Hollis,0,
+Charles,,President,,Democratic,Bill Clinton/Albert Gore Jr.,15890,TRUE
+Charles,,President,,Republican,Bob Dole/Jack Kemp,17432,
+Charles,,President,,Libertarian,Harry Browne/Jo Joregensen,96,
+Charles,,President,,Reform,Ross Perot/James Campbell,2333,
+Charles,,President,,Natural-Law,John Hagelin/Vinton Tompkins,18,
+Charles,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,33,
+Charles,,President,,Democratic,Willie Felix Carter,0,
+Charles,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Charles,,President,,Republican,Harriet H. Gleason,0,
+Charles,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Charles,,President,,Republican,Isabell Masters,0,
+Charles,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Charles,,President,,Independent,Keith Judd,0,
+Charles,,President,,Independent,Ralph Nader,21,
+Charles,,President,,Other,Mary Cal Hollis,2,
+Dorchester,,President,,Democratic,Bill Clinton/Albert Gore Jr.,4613,TRUE
+Dorchester,,President,,Republican,Bob Dole/Jack Kemp,4337,
+Dorchester,,President,,Libertarian,Harry Browne/Jo Joregensen,46,
+Dorchester,,President,,Reform,Ross Perot/James Campbell,1008,
+Dorchester,,President,,Natural-Law,John Hagelin/Vinton Tompkins,18,
+Dorchester,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,17,
+Dorchester,,President,,Democratic,Willie Felix Carter,0,
+Dorchester,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Dorchester,,President,,Republican,Harriet H. Gleason,0,
+Dorchester,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Dorchester,,President,,Republican,Isabell Masters,0,
+Dorchester,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Dorchester,,President,,Independent,Keith Judd,0,
+Dorchester,,President,,Independent,Ralph Nader,13,
+Dorchester,,President,,Other,Mary Cal Hollis,0,
+Frederick,,President,,Democratic,Bill Clinton/Albert Gore Jr.,25081,TRUE
+Frederick,,President,,Republican,Bob Dole/Jack Kemp,34494,
+Frederick,,President,,Libertarian,Harry Browne/Jo Joregensen,336,
+Frederick,,President,,Reform,Ross Perot/James Campbell,4989,
+Frederick,,President,,Natural-Law,John Hagelin/Vinton Tompkins,93,
+Frederick,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,182,
+Frederick,,President,,Democratic,Willie Felix Carter,0,
+Frederick,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Frederick,,President,,Republican,Harriet H. Gleason,0,
+Frederick,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Frederick,,President,,Republican,Isabell Masters,1,
+Frederick,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Frederick,,President,,Independent,Keith Judd,0,
+Frederick,,President,,Independent,Ralph Nader,127,
+Frederick,,President,,Other,Mary Cal Hollis,0,
+Garrett,,President,,Democratic,Bill Clinton/Albert Gore Jr.,3121,TRUE
+Garrett,,President,,Republican,Bob Dole/Jack Kemp,5400,
+Garrett,,President,,Libertarian,Harry Browne/Jo Joregensen,26,
+Garrett,,President,,Reform,Ross Perot/James Campbell,1200,
+Garrett,,President,,Natural-Law,John Hagelin/Vinton Tompkins,7,
+Garrett,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,30,
+Garrett,,President,,Democratic,Willie Felix Carter,0,
+Garrett,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Garrett,,President,,Republican,Harriet H. Gleason,0,
+Garrett,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Garrett,,President,,Republican,Isabell Masters,0,
+Garrett,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Garrett,,President,,Independent,Keith Judd,0,
+Garrett,,President,,Independent,Ralph Nader,2,
+Garrett,,President,,Other,Mary Cal Hollis,0,
+Harford,,President,,Democratic,Bill Clinton/Albert Gore Jr.,29779,TRUE
+Harford,,President,,Republican,Bob Dole/Jack Kemp,39686,
+Harford,,President,,Libertarian,Harry Browne/Jo Joregensen,464,
+Harford,,President,,Reform,Ross Perot/James Campbell,7939,
+Harford,,President,,Natural-Law,John Hagelin/Vinton Tompkins,80,
+Harford,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,243,
+Harford,,President,,Democratic,Willie Felix Carter,0,
+Harford,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Harford,,President,,Republican,Harriet H. Gleason,0,
+Harford,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Harford,,President,,Republican,Isabell Masters,0,
+Harford,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Harford,,President,,Independent,Keith Judd,0,
+Harford,,President,,Independent,Ralph Nader,0,
+Harford,,President,,Other,Mary Cal Hollis,0,
+Howard,,President,,Democratic,Bill Clinton/Albert Gore Jr.,47569,TRUE
+Howard,,President,,Republican,Bob Dole/Jack Kemp,40849,
+Howard,,President,,Libertarian,Harry Browne/Jo Joregensen,603,
+Howard,,President,,Reform,Ross Perot/James Campbell,6011,
+Howard,,President,,Natural-Law,John Hagelin/Vinton Tompkins,162,
+Howard,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,149,
+Howard,,President,,Democratic,Willie Felix Carter,2,
+Howard,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Howard,,President,,Republican,Harriet H. Gleason,0,
+Howard,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Howard,,President,,Republican,Isabell Masters,0,
+Howard,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Howard,,President,,Independent,Keith Judd,0,
+Howard,,President,,Independent,Ralph Nader,163,
+Howard,,President,,Other,Mary Cal Hollis,0,
+Kent,,President,,Democratic,Bill Clinton/Albert Gore Jr.,3207,TRUE
+Kent,,President,,Republican,Bob Dole/Jack Kemp,3055,
+Kent,,President,,Libertarian,Harry Browne/Jo Joregensen,21,
+Kent,,President,,Reform,Ross Perot/James Campbell,676,
+Kent,,President,,Natural-Law,John Hagelin/Vinton Tompkins,8,
+Kent,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,17,
+Kent,,President,,Democratic,Willie Felix Carter,0,
+Kent,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Kent,,President,,Republican,Harriet H. Gleason,0,
+Kent,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Kent,,President,,Republican,Isabell Masters,0,
+Kent,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Kent,,President,,Independent,Keith Judd,0,
+Kent,,President,,Independent,Ralph Nader,14,
+Kent,,President,,Other,Mary Cal Hollis,0,
+Montgomery,,President,,Democratic,Bill Clinton/Albert Gore Jr.,198807,TRUE
+Montgomery,,President,,Republican,Bob Dole/Jack Kemp,117730,
+Montgomery,,President,,Libertarian,Harry Browne/Jo Joregensen,1584,
+Montgomery,,President,,Reform,Ross Perot/James Campbell,14450,
+Montgomery,,President,,Natural-Law,John Hagelin/Vinton Tompkins,717,
+Montgomery,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,390,
+Montgomery,,President,,Democratic,Willie Felix Carter,7,
+Montgomery,,President,,Democratic,Eldrige Kennedy Hodge,3,
+Montgomery,,President,,Republican,Harriet H. Gleason,0,
+Montgomery,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Montgomery,,President,,Republican,Isabell Masters,0,
+Montgomery,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Montgomery,,President,,Independent,Keith Judd,0,
+Montgomery,,President,,Independent,Ralph Nader,1209,
+Montgomery,,President,,Other,Mary Cal Hollis,0,
+Prince George's,,President,,Democratic,Bill Clinton/Albert Gore Jr.,176612,TRUE
+Prince George's,,President,,Republican,Bob Dole/Jack Kemp,52697,
+Prince George's,,President,,Libertarian,Harry Browne/Jo Joregensen,855,
+Prince George's,,President,,Reform,Ross Perot/James Campbell,9153,
+Prince George's,,President,,Natural-Law,John Hagelin/Vinton Tompkins,278,
+Prince George's,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,364,
+Prince George's,,President,,Democratic,Willie Felix Carter,0,
+Prince George's,,President,,Democratic,Eldrige Kennedy Hodge,3,
+Prince George's,,President,,Republican,Harriet H. Gleason,1,
+Prince George's,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Prince George's,,President,,Republican,Isabell Masters,0,
+Prince George's,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Prince George's,,President,,Independent,Keith Judd,0,
+Prince George's,,President,,Independent,Ralph Nader,339,
+Prince George's,,President,,Other,Mary Cal Hollis,0,
+Queen Anne's,,President,,Democratic,Bill Clinton/Albert Gore Jr.,5054,TRUE
+Queen Anne's,,President,,Republican,Bob Dole/Jack Kemp,7147,
+Queen Anne's,,President,,Libertarian,Harry Browne/Jo Joregensen,69,
+Queen Anne's,,President,,Reform,Ross Perot/James Campbell,1312,
+Queen Anne's,,President,,Natural-Law,John Hagelin/Vinton Tompkins,19,
+Queen Anne's,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,30,
+Queen Anne's,,President,,Democratic,Willie Felix Carter,0,
+Queen Anne's,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Queen Anne's,,President,,Republican,Harriet H. Gleason,0,
+Queen Anne's,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Queen Anne's,,President,,Republican,Isabell Masters,0,
+Queen Anne's,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Queen Anne's,,President,,Independent,Keith Judd,0,
+Queen Anne's,,President,,Independent,Ralph Nader,8,
+Queen Anne's,,President,,Other,Mary Cal Hollis,0,
+St. Mary's,,President,,Democratic,Bill Clinton/Albert Gore Jr.,9988,TRUE
+St. Mary's,,President,,Republican,Bob Dole/Jack Kemp,11835,
+St. Mary's,,President,,Libertarian,Harry Browne/Jo Joregensen,72,
+St. Mary's,,President,,Reform,Ross Perot/James Campbell,1827,
+St. Mary's,,President,,Natural-Law,John Hagelin/Vinton Tompkins,19,
+St. Mary's,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,29,
+St. Mary's,,President,,Democratic,Willie Felix Carter,0,
+St. Mary's,,President,,Democratic,Eldrige Kennedy Hodge,0,
+St. Mary's,,President,,Republican,Harriet H. Gleason,0,
+St. Mary's,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+St. Mary's,,President,,Republican,Isabell Masters,0,
+St. Mary's,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+St. Mary's,,President,,Independent,Keith Judd,0,
+St. Mary's,,President,,Independent,Ralph Nader,38,
+St. Mary's,,President,,Other,Mary Cal Hollis,0,
+Somerset,,President,,Democratic,Bill Clinton/Albert Gore Jr.,3557,TRUE
+Somerset,,President,,Republican,Bob Dole/Jack Kemp,2919,
+Somerset,,President,,Libertarian,Harry Browne/Jo Joregensen,50,
+Somerset,,President,,Reform,Ross Perot/James Campbell,613,
+Somerset,,President,,Natural-Law,John Hagelin/Vinton Tompkins,13,
+Somerset,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,17,
+Somerset,,President,,Democratic,Willie Felix Carter,0,
+Somerset,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Somerset,,President,,Republican,Harriet H. Gleason,0,
+Somerset,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Somerset,,President,,Republican,Isabell Masters,0,
+Somerset,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Somerset,,President,,Independent,Keith Judd,0,
+Somerset,,President,,Independent,Ralph Nader,0,
+Somerset,,President,,Other,Mary Cal Hollis,0,
+Talbot,,President,,Democratic,Bill Clinton/Albert Gore Jr.,4821,TRUE
+Talbot,,President,,Republican,Bob Dole/Jack Kemp,6997,
+Talbot,,President,,Libertarian,Harry Browne/Jo Joregensen,63,
+Talbot,,President,,Reform,Ross Perot/James Campbell,914,
+Talbot,,President,,Natural-Law,John Hagelin/Vinton Tompkins,25,
+Talbot,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,14,
+Talbot,,President,,Democratic,Willie Felix Carter,0,
+Talbot,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Talbot,,President,,Republican,Harriet H. Gleason,0,
+Talbot,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Talbot,,President,,Republican,Isabell Masters,0,
+Talbot,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Talbot,,President,,Independent,Keith Judd,0,
+Talbot,,President,,Independent,Ralph Nader,21,
+Talbot,,President,,Other,Mary Cal Hollis,0,
+Washington,,President,,Democratic,Bill Clinton/Albert Gore Jr.,16481,TRUE
+Washington,,President,,Republican,Bob Dole/Jack Kemp,21434,
+Washington,,President,,Libertarian,Harry Browne/Jo Joregensen,148,
+Washington,,President,,Reform,Ross Perot/James Campbell,3934,
+Washington,,President,,Natural-Law,John Hagelin/Vinton Tompkins,39,
+Washington,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,70,
+Washington,,President,,Democratic,Willie Felix Carter,0,
+Washington,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Washington,,President,,Republican,Harriet H. Gleason,0,
+Washington,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Washington,,President,,Republican,Isabell Masters,0,
+Washington,,President,,Independent,Charles E. Collins/Rosemary Giumarra,1,
+Washington,,President,,Independent,Keith Judd,0,
+Washington,,President,,Independent,Ralph Nader,35,
+Washington,,President,,Other,Mary Cal Hollis,0,
+Wicomico,,President,,Democratic,Bill Clinton/Albert Gore Jr.,12303,TRUE
+Wicomico,,President,,Republican,Bob Dole/Jack Kemp,12687,
+Wicomico,,President,,Libertarian,Harry Browne/Jo Joregensen,73,
+Wicomico,,President,,Reform,Ross Perot/James Campbell,2160,
+Wicomico,,President,,Natural-Law,John Hagelin/Vinton Tompkins,20,
+Wicomico,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,30,
+Wicomico,,President,,Democratic,Willie Felix Carter,0,
+Wicomico,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Wicomico,,President,,Republican,Harriet H. Gleason,0,
+Wicomico,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Wicomico,,President,,Republican,Isabell Masters,0,
+Wicomico,,President,,Independent,Charles E. Collins/Rosemary Giumarra,2,
+Wicomico,,President,,Independent,Keith Judd,0,
+Wicomico,,President,,Independent,Ralph Nader,11,
+Wicomico,,President,,Other,Mary Cal Hollis,0,
+Worcester,,President,,Democratic,Bill Clinton/Albert Gore Jr.,7587,TRUE
+Worcester,,President,,Republican,Bob Dole/Jack Kemp,7621,
+Worcester,,President,,Libertarian,Harry Browne/Jo Joregensen,54,
+Worcester,,President,,Reform,Ross Perot/James Campbell,1612,
+Worcester,,President,,Natural-Law,John Hagelin/Vinton Tompkins,19,
+Worcester,,President,,Taxpayers,Howard Phillips/Herbert W. Titus,21,
+Worcester,,President,,Democratic,Willie Felix Carter,0,
+Worcester,,President,,Democratic,Eldrige Kennedy Hodge,0,
+Worcester,,President,,Republican,Harriet H. Gleason,0,
+Worcester,,President,,Republican,Jack Marbardy/Bill Carroll,0,
+Worcester,,President,,Republican,Isabell Masters,0,
+Worcester,,President,,Independent,Charles E. Collins/Rosemary Giumarra,0,
+Worcester,,President,,Independent,Keith Judd,17,
+Worcester,,President,,Independent,Ralph Nader,0,
+Worcester,,President,,Other,Mary Cal Hollis,0,
+Anne Arundel,,Representative in Congress,,Democratic,Steven R. Eastaugh,38827,
+Anne Arundel,,Representative in Congress,,Republican,Wayne T. Gilchrest,54428,TRUE
+Anne Arundel,,Representative in Congress,,Natural-Law,Gail Herson,4,
+Baltimore City,,Representative in Congress,,Democratic,Steven R. Eastaugh,827,
+Baltimore City,,Representative in Congress,,Republican,Wayne T. Gilchrest,624,TRUE
+Baltimore City,,Representative in Congress,,Natural-Law,Gail Herson,0,
+Caroline,,Representative in Congress,,Democratic,Steven R. Eastaugh,1977,
+Caroline,,Representative in Congress,,Republican,Wayne T. Gilchrest,4703,TRUE
+Caroline,,Representative in Congress,,Natural-Law,Gail Herson,1,
+Cecil,,Representative in Congress,,Democratic,Steven R. Eastaugh,9233,
+Cecil,,Representative in Congress,,Republican,Wayne T. Gilchrest,13409,TRUE
+Cecil,,Representative in Congress,,Natural-Law,Gail Herson,0,
+Dorchester,,Representative in Congress,,Democratic,Steven R. Eastaugh,3210,
+Dorchester,,Representative in Congress,,Republican,Wayne T. Gilchrest,5048,TRUE
+Dorchester,,Representative in Congress,,Natural-Law,Gail Herson,1,
+Kent,,Representative in Congress,,Democratic,Steven R. Eastaugh,2063,
+Kent,,Representative in Congress,,Republican,Wayne T. Gilchrest,4681,TRUE
+Kent,,Representative in Congress,,Natural-Law,Gail Herson,0,
+Queen Anne's,,Representative in Congress,,Democratic,Steven R. Eastaugh,3701,
+Queen Anne's,,Representative in Congress,,Republican,Wayne T. Gilchrest,9556,TRUE
+Queen Anne's,,Representative in Congress,,Natural-Law,Gail Herson,0,
+Somerset,,Representative in Congress,,Democratic,Steven R. Eastaugh,2381,
+Somerset,,Representative in Congress,,Republican,Wayne T. Gilchrest,3462,TRUE
+Somerset,,Representative in Congress,,Natural-Law,Gail Herson,0,
+Talbot,,Representative in Congress,,Democratic,Steven R. Eastaugh,2927,
+Talbot,,Representative in Congress,,Republican,Wayne T. Gilchrest,9282,TRUE
+Talbot,,Representative in Congress,,Natural-Law,Gail Herson,9,
+Wicomico,,Representative in Congress,,Democratic,Steven R. Eastaugh,9828,
+Wicomico,,Representative in Congress,,Republican,Wayne T. Gilchrest,16330,TRUE
+Wicomico,,Representative in Congress,,Natural-Law,Gail Herson,1,
+Worcester,,Representative in Congress,,Democratic,Steven R. Eastaugh,6851,
+Worcester,,Representative in Congress,,Republican,Wayne T. Gilchrest,9510,TRUE
+Worcester,,Representative in Congress,,Natural-Law,Gail Herson,2,
+Anne Arundel,,Representative in Congress,,Democratic,Connie Galiazzo DeJuliis,7085,
+Anne Arundel,,Representative in Congress,,Republican,Robert L. Ehrlich Jr.,11608,TRUE
+Baltimore,,Representative in Congress,,Democratic,Connie Galiazzo DeJuliis,53387,
+Baltimore,,Representative in Congress,,Republican,Robert L. Ehrlich Jr.,83284,TRUE
+Harford,,Representative in Congress,,Democratic,Connie Galiazzo DeJuliis,27872,
+Harford,,Representative in Congress,,Republican,Robert L. Ehrlich Jr.,48183,TRUE
+Anne Arundel,,Representative in Congress,,Democratic,Benjamin L. Cardin,9724,TRUE
+Anne Arundel,,Representative in Congress,,Republican,Patrick L. McDonough,7489,
+Baltimore City,,Representative in Congress,,Democratic,Benjamin L. Cardin,42071,TRUE
+Baltimore City,,Representative in Congress,,Republican,Patrick L. McDonough,15301,
+Baltimore,,Representative in Congress,,Democratic,Benjamin L. Cardin,51634,TRUE
+Baltimore,,Representative in Congress,,Republican,Patrick L. McDonough,26219,
+Howard,,Representative in Congress,,Democratic,Benjamin L. Cardin,26775,TRUE
+Howard,,Representative in Congress,,Republican,Patrick L. McDonough,14220,
+Montgomery,,Representative in Congress,,Democratic,Albert R. Wynn,41717,TRUE
+Montgomery,,Representative in Congress,,Republican,John B. Kimble,14138,
+Prince George's,,Representative in Congress,,Democratic,Albert R. Wynn,100377,TRUE
+Prince George's,,Representative in Congress,,Republican,John B. Kimble,10562,
+Anne Arundel,,Representative in Congress,,Democratic,Steny H. Hoyer,15820,TRUE
+Anne Arundel,,Representative in Congress,,Republican,John S. Morgan,17157,
+Calvert,,Representative in Congress,,Democratic,Steny H. Hoyer,11783,TRUE
+Calvert,,Representative in Congress,,Republican,John S. Morgan,10944,
+Charles,,Representative in Congress,,Democratic,Steny H. Hoyer,18823,TRUE
+Charles,,Representative in Congress,,Republican,John S. Morgan,16142,
+Prince George's,,Representative in Congress,,Democratic,Steny H. Hoyer,61166,TRUE
+Prince George's,,Representative in Congress,,Republican,John S. Morgan,38045,
+St. Mary's,,Representative in Congress,,Democratic,Steny H. Hoyer,13696,TRUE
+St. Mary's,,Representative in Congress,,Republican,John S. Morgan,9518,
+Allegany,,Representative in Congress,,Democratic,Stephen Crawford,9778,
+Allegany,,Representative in Congress,,Republican,Roscoe Bartlett,11728,TRUE
+Allegany,,Representative in Congress,,Natural-Law,Kevin Carmody,0,
+Allegany,,Representative in Congress,,Democratic,Don Allensworth,0,
+Carroll,,Representative in Congress,,Democratic,Stephen Crawford,18239,
+Carroll,,Representative in Congress,,Republican,Roscoe Bartlett,31266,TRUE
+Carroll,,Representative in Congress,,Natural-Law,Kevin Carmody,3,
+Carroll,,Representative in Congress,,Democratic,Don Allensworth,1,
+Frederick,,Representative in Congress,,Democratic,Stephen Crawford,28135,
+Frederick,,Representative in Congress,,Republican,Roscoe Bartlett,35342,TRUE
+Frederick,,Representative in Congress,,Natural-Law,Kevin Carmody,1,
+Frederick,,Representative in Congress,,Democratic,Don Allensworth,4,
+Garrett,,Representative in Congress,,Democratic,Stephen Crawford,2857,
+Garrett,,Representative in Congress,,Republican,Roscoe Bartlett,6247,TRUE
+Garrett,,Representative in Congress,,Natural-Law,Kevin Carmody,0,
+Garrett,,Representative in Congress,,Democratic,Don Allensworth,0,
+Howard,,Representative in Congress,,Democratic,Stephen Crawford,23840,
+Howard,,Representative in Congress,,Republican,Roscoe Bartlett,26064,TRUE
+Howard,,Representative in Congress,,Natural-Law,Kevin Carmody,0,
+Howard,,Representative in Congress,,Democratic,Don Allensworth,11,
+Washington,,Representative in Congress,,Democratic,Stephen Crawford,18061,
+Washington,,Representative in Congress,,Republican,Roscoe Bartlett,22206,TRUE
+Washington,,Representative in Congress,,Natural-Law,Kevin Carmody,1,
+Washington,,Representative in Congress,,Democratic,Don Allensworth,4,
+Baltimore City,,Representative in Congress,,Democratic,Elijah E. Cummings,88188,TRUE
+Baltimore City,,Representative in Congress,,Republican,Kenneth Kondner,6548,
+Baltimore City,,Representative in Congress,,Democratic,Barry Farley,2,
+Baltimore,,Representative in Congress,,Democratic,Elijah E. Cummings,27576,TRUE
+Baltimore,,Representative in Congress,,Republican,Kenneth Kondner,16381,
+Baltimore,,Representative in Congress,,Democratic,Barry Farley,0,
+Montgomery,,Representative in Congress,,Democratic,Donald Mooers,96229,
+Montgomery,,Representative in Congress,,Republican,Constance A. Morella,152538,TRUE
+Montgomery,,Representative in Congress,,Democratic,Lih Y. Young,57,
+Montgomery,,Representative in Congress,,Libertarian,Robert Creager,41,
+Montgomery,,Representative in Congress,,Natural-Law,Barbara Ann Robson,281,
+Cecil,,Judge of the Circuit Court,,Both Parties,Donaldson Craig Cole Jr.,16789,TRUE
+Cecil,,Judge of the Circuit Court,,Both Parties,Dexter M. Thompson Jr.,12748,TRUE
+Baltimore,,Judge of the Circuit Court,,Both Parties,Robert E. Cadigan,151119,TRUE
+Harford,,Judge of the Circuit Court,,Both Parties,Thomas E. Marshall,54976,TRUE
+Washington,,Judge of the Circuit Court,,Both Parties,Frederick C. Wright,32749,TRUE
+Anne Arundel,,Judge of the Circuit Court,,Both Parties,Clayton Greene Jr.,96239,TRUE
+Anne Arundel,,Judge of the Circuit Court,,Both Parties,Eugene M. Lerner,92526,TRUE
+Anne Arundel,,Judge of the Circuit Court,,Both Parties,Pamela L. North,106200,TRUE
+Anne Arundel,,Judge of the Circuit Court,,Both Parties,Martin A. Wolff,89646,TRUE
+Carroll,,Judge of the Circuit Court,,Both Parties,Luke K. Burns Jr.,36678,TRUE
+Howard,,Judge of the Circuit Court,,Both Parties,Lenore R. Gelfman,43842,TRUE
+Howard,,Judge of the Circuit Court,,Both Parties,Diane O. Leasure,44003,TRUE
+Howard,,Judge of the Circuit Court,,Both Parties,Jonathan Scott Smith,36697,
+Howard,,Judge of the Circuit Court,,Both Parties,Donna Hill Staton,41956,
+Frederick,,Judge of the Circuit Court,,Both Parties,John H. Tisdale,44535,TRUE
+Montgomery,,Judge of the Circuit Court,,Both Parties,James Chris Chapin,179735,TRUE
+Montgomery,,Judge of the Circuit Court,,Both Parties,Martha G. Kavanaugh,193123,TRUE
+Montgomery,,Judge of the Circuit Court,,Both Parties,Michael D. Mason,177296,TRUE
+Montgomery,,Judge of the Circuit Court,,Both Parties,Louise G. Scrivener,184300,TRUE
+Montgomery,,Judge of the Circuit Court,,Both Parties,Durke G. Thompson,174740,TRUE
+Calvert,,Judge of the Circuit Court,,Both Parties,Marjorie L. Clagett,16514,TRUE
+Charles,,Judge of the Circuit Court,,Both Parties,Steven George Chappelle,16315,TRUE
+Charles,,Judge of the Circuit Court,,Both Parties,Richard John Clark,23537,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Michele D. Hotten,113570,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Sherrie L. Krauser,108498,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Audrey E. Melbourne,118307,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,E. Allen Shepherd,108347,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Thomas P. Smith,105916,TRUE
+Baltimore City,,Judge of the Circuit Court,,Both Parties,Bonita J. Dancy,60951,TRUE
+Baltimore City,,Judge of the Circuit Court,,Both Parties,Albert J. Matricciani Jr.,56058,TRUE
+Baltimore City,,Judge of the Circuit Court,,Both Parties,Gary I. Strausberg,56951,TRUE
+Baltimore City,,Judge of the Circuit Court,,Both Parties,David W. Young,69210,TRUE
+Montgomery,,Judge of the Circuit Court,,,Yes,210615,TRUE
+Montgomery,,Judge of the Circuit Court,,,No,31474,
+Allegany,,Judge of the Circuit Court,,,Yes,9752,TRUE
+Allegany,,Judge of the Circuit Court,,,No,2871,
+Anne Arundel,,Judge of the Circuit Court,,,Yes,108680,TRUE
+Anne Arundel,,Judge of the Circuit Court,,,No,18453,
+Baltimore City,,Judge of the Circuit Court,,,Yes,82667,TRUE
+Baltimore City,,Judge of the Circuit Court,,,No,12089,
+Baltimore,,Judge of the Circuit Court,,,Yes,161385,TRUE
+Baltimore,,Judge of the Circuit Court,,,No,25664,
+Calvert,,Judge of the Circuit Court,,,Yes,12224,TRUE
+Calvert,,Judge of the Circuit Court,,,No,1738,
+Caroline,,Judge of the Circuit Court,,,Yes,2325,TRUE
+Caroline,,Judge of the Circuit Court,,,No,560,
+Carroll,,Judge of the Circuit Court,,,Yes,32467,TRUE
+Carroll,,Judge of the Circuit Court,,,No,5425,
+Cecil,,Judge of the Circuit Court,,,Yes,14279,TRUE
+Cecil,,Judge of the Circuit Court,,,No,2188,
+Charles,,Judge of the Circuit Court,,,Yes,19720,TRUE
+Charles,,Judge of the Circuit Court,,,No,2799,
+Dorchester,,Judge of the Circuit Court,,,Yes,3156,TRUE
+Dorchester,,Judge of the Circuit Court,,,No,779,
+Frederick,,Judge of the Circuit Court,,,Yes,41527,TRUE
+Frederick,,Judge of the Circuit Court,,,No,5760,
+Garrett,,Judge of the Circuit Court,,,Yes,4978,TRUE
+Garrett,,Judge of the Circuit Court,,,No,1257,
+Harford,,Judge of the Circuit Court,,,Yes,50550,TRUE
+Harford,,Judge of the Circuit Court,,,No,10294,
+Howard,,Judge of the Circuit Court,,,Yes,63341,TRUE
+Howard,,Judge of the Circuit Court,,,No,10245,
+Kent,,Judge of the Circuit Court,,,Yes,3809,TRUE
+Kent,,Judge of the Circuit Court,,,No,549,
+Montgomery,,Judge of the Circuit Court,,,Yes,210289,TRUE
+Montgomery,,Judge of the Circuit Court,,,No,28755,
+Prince George's,,Judge of the Circuit Court,,,Yes,111492,TRUE
+Prince George's,,Judge of the Circuit Court,,,No,20404,
+Queen Anne's,,Judge of the Circuit Court,,,Yes,8351,TRUE
+Queen Anne's,,Judge of the Circuit Court,,,No,1403,
+St. Mary's,,Judge of the Circuit Court,,,Yes,11728,TRUE
+St. Mary's,,Judge of the Circuit Court,,,No,2459,
+Somerset,,Judge of the Circuit Court,,,Yes,2119,TRUE
+Somerset,,Judge of the Circuit Court,,,No,482,
+Talbot,,Judge of the Circuit Court,,,Yes,7302,TRUE
+Talbot,,Judge of the Circuit Court,,,No,1045,
+Washington,,Judge of the Circuit Court,,,Yes,22749,TRUE
+Washington,,Judge of the Circuit Court,,,No,3807,
+Wicomico,,Judge of the Circuit Court,,,Yes,16645,TRUE
+Wicomico,,Judge of the Circuit Court,,,No,2474,
+Worcester,,Judge of the Circuit Court,,,Yes,10224,TRUE
+Worcester,,Judge of the Circuit Court,,,No,1488,
+Baltimore,,Judge of the Circuit Court,,,Yes,143162,TRUE
+Baltimore,,Judge of the Circuit Court,,,No,29118,
+Harford,,Judge of the Circuit Court,,,Yes,48690,TRUE
+Harford,,Judge of the Circuit Court,,,No,10998,
+Allegany,,Judge of the Circuit Court,,,Yes,8947,TRUE
+Allegany,,Judge of the Circuit Court,,,No,3031,
+Carroll,,Judge of the Circuit Court,,,Yes,29974,TRUE
+Carroll,,Judge of the Circuit Court,,,No,5948,
+Frederick,,Judge of the Circuit Court,,,Yes,43521,TRUE
+Frederick,,Judge of the Circuit Court,,,No,6289,
+Garrett,,Judge of the Circuit Court,,,Yes,4564,TRUE
+Garrett,,Judge of the Circuit Court,,,No,1275,
+Howard,,Judge of the Circuit Court,,,Yes,59663,TRUE
+Howard,,Judge of the Circuit Court,,,No,11752,
+Washington,,Judge of the Circuit Court,,,Yes,21598,TRUE
+Washington,,Judge of the Circuit Court,,,No,4006,
+Prince George's,,Judge of the Circuit Court,,,Yes,103507,TRUE
+Prince George's,,Judge of the Circuit Court,,,No,24350,

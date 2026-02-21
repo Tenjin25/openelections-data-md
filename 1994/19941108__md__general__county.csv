@@ -1,0 +1,909 @@
+county,precinct,office,district,party,candidate,votes,winner
+Allegany,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,9292,TRUE
+Allegany,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,12388,
+Allegany,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Anne Arundel,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,54920,TRUE
+Anne Arundel,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,83663,
+Anne Arundel,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,49,
+Baltimore City,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,114022,TRUE
+Baltimore City,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,38420,
+Baltimore City,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,1,
+Baltimore,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,102398,TRUE
+Baltimore,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,134663,
+Baltimore,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,15,
+Calvert,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,7348,TRUE
+Calvert,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,11430,
+Calvert,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Caroline,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,2236,TRUE
+Caroline,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,4529,
+Caroline,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Carroll,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,12310,TRUE
+Carroll,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,31787,
+Carroll,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,5,
+Cecil,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,6808,TRUE
+Cecil,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,12020,
+Cecil,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Charles,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,10074,TRUE
+Charles,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,15737,
+Charles,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Dorchester,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,3434,TRUE
+Dorchester,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,5325,
+Dorchester,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Frederick,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,17024,TRUE
+Frederick,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,30992,
+Frederick,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,3,
+Garrett,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,1859,TRUE
+Garrett,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,6267,
+Garrett,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Harford,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,22884,TRUE
+Harford,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,42124,
+Harford,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,4,
+Howard,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,34198,TRUE
+Howard,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,39466,
+Howard,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,7,
+Kent,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,2822,TRUE
+Kent,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,3873,
+Kent,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,1,
+Montgomery,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,149015,TRUE
+Montgomery,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,104988,
+Montgomery,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,7,
+Prince George's,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,114256,TRUE
+Prince George's,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,52855,
+Prince George's,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Queen Anne's,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,3994,TRUE
+Queen Anne's,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,7451,
+Queen Anne's,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,1,
+St. Mary's,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,7902,TRUE
+St. Mary's,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,11138,
+St. Mary's,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Somerset,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,2324,TRUE
+Somerset,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,3996,
+Somerset,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Talbot,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,3743,TRUE
+Talbot,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,7187,
+Talbot,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Washington,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,11405,TRUE
+Washington,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,20598,
+Washington,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,11,
+Wicomico,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,8766,TRUE
+Wicomico,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,12938,
+Wicomico,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,1,
+Worcester,,Governor,,Democratic,Parris N. Glendening/Kathleen Kennedy Townsend,5060,TRUE
+Worcester,,Governor,,Republican,Ellen R. Sauerbrey/Paul H. Rappaport,8266,
+Worcester,,Governor,,Democratic,Don Allensworth/Linda K. Hartman,0,
+Allegany,,Comptroller,,Democratic,Louis L. Goldstein,11434,TRUE
+Allegany,,Comptroller,,Republican,Timothy R. Mayberry,7998,
+Anne Arundel,,Comptroller,,Democratic,Louis L. Goldstein,73549,TRUE
+Anne Arundel,,Comptroller,,Republican,Timothy R. Mayberry,62820,
+Baltimore City,,Comptroller,,Democratic,Louis L. Goldstein,110562,TRUE
+Baltimore City,,Comptroller,,Republican,Timothy R. Mayberry,24912,
+Baltimore,,Comptroller,,Democratic,Louis L. Goldstein,132895,TRUE
+Baltimore,,Comptroller,,Republican,Timothy R. Mayberry,82129,
+Calvert,,Comptroller,,Democratic,Louis L. Goldstein,10623,TRUE
+Calvert,,Comptroller,,Republican,Timothy R. Mayberry,7663,
+Caroline,,Comptroller,,Democratic,Louis L. Goldstein,3442,TRUE
+Caroline,,Comptroller,,Republican,Timothy R. Mayberry,2905,
+Carroll,,Comptroller,,Democratic,Louis L. Goldstein,20344,TRUE
+Carroll,,Comptroller,,Republican,Timothy R. Mayberry,22757,
+Cecil,,Comptroller,,Democratic,Louis L. Goldstein,10089,TRUE
+Cecil,,Comptroller,,Republican,Timothy R. Mayberry,7354,
+Charles,,Comptroller,,Democratic,Louis L. Goldstein,13056,TRUE
+Charles,,Comptroller,,Republican,Timothy R. Mayberry,11148,
+Dorchester,,Comptroller,,Democratic,Louis L. Goldstein,4730,TRUE
+Dorchester,,Comptroller,,Republican,Timothy R. Mayberry,3286,
+Frederick,,Comptroller,,Democratic,Louis L. Goldstein,22219,TRUE
+Frederick,,Comptroller,,Republican,Timothy R. Mayberry,24579,
+Garrett,,Comptroller,,Democratic,Louis L. Goldstein,3939,TRUE
+Garrett,,Comptroller,,Republican,Timothy R. Mayberry,3500,
+Harford,,Comptroller,,Democratic,Louis L. Goldstein,36030,TRUE
+Harford,,Comptroller,,Republican,Timothy R. Mayberry,27482,
+Howard,,Comptroller,,Democratic,Louis L. Goldstein,38498,TRUE
+Howard,,Comptroller,,Republican,Timothy R. Mayberry,32572,
+Kent,,Comptroller,,Democratic,Louis L. Goldstein,4165,TRUE
+Kent,,Comptroller,,Republican,Timothy R. Mayberry,2410,
+Montgomery,,Comptroller,,Democratic,Louis L. Goldstein,148096,TRUE
+Montgomery,,Comptroller,,Republican,Timothy R. Mayberry,96718,
+Prince George's,,Comptroller,,Democratic,Louis L. Goldstein,107238,TRUE
+Prince George's,,Comptroller,,Republican,Timothy R. Mayberry,43789,
+Queen Anne's,,Comptroller,,Democratic,Louis L. Goldstein,5951,TRUE
+Queen Anne's,,Comptroller,,Republican,Timothy R. Mayberry,4895,
+St. Mary's,,Comptroller,,Democratic,Louis L. Goldstein,10694,TRUE
+St. Mary's,,Comptroller,,Republican,Timothy R. Mayberry,7790,
+Somerset,,Comptroller,,Democratic,Louis L. Goldstein,3940,TRUE
+Somerset,,Comptroller,,Republican,Timothy R. Mayberry,2023,
+Talbot,,Comptroller,,Democratic,Louis L. Goldstein,5275,TRUE
+Talbot,,Comptroller,,Republican,Timothy R. Mayberry,4954,
+Washington,,Comptroller,,Democratic,Louis L. Goldstein,14081,TRUE
+Washington,,Comptroller,,Republican,Timothy R. Mayberry,17418,
+Wicomico,,Comptroller,,Democratic,Louis L. Goldstein,11936,TRUE
+Wicomico,,Comptroller,,Republican,Timothy R. Mayberry,9423,
+Worcester,,Comptroller,,Democratic,Louis L. Goldstein,7066,TRUE
+Worcester,,Comptroller,,Republican,Timothy R. Mayberry,6106,
+Allegany,,Attorney General,,Democratic,J. Joseph Curran Jr.,7480,TRUE
+Allegany,,Attorney General,,Republican,Richard D. Bennett,9943,
+Anne Arundel,,Attorney General,,Democratic,J. Joseph Curran Jr.,61018,TRUE
+Anne Arundel,,Attorney General,,Republican,Richard D. Bennett,73129,
+Baltimore City,,Attorney General,,Democratic,J. Joseph Curran Jr.,110085,TRUE
+Baltimore City,,Attorney General,,Republican,Richard D. Bennett,28867,
+Baltimore,,Attorney General,,Democratic,J. Joseph Curran Jr.,112314,TRUE
+Baltimore,,Attorney General,,Republican,Richard D. Bennett,107782,
+Calvert,,Attorney General,,Democratic,J. Joseph Curran Jr.,6761,TRUE
+Calvert,,Attorney General,,Republican,Richard D. Bennett,9566,
+Caroline,,Attorney General,,Democratic,J. Joseph Curran Jr.,2515,TRUE
+Caroline,,Attorney General,,Republican,Richard D. Bennett,3489,
+Carroll,,Attorney General,,Democratic,J. Joseph Curran Jr.,15324,TRUE
+Carroll,,Attorney General,,Republican,Richard D. Bennett,27009,
+Cecil,,Attorney General,,Democratic,J. Joseph Curran Jr.,7570,TRUE
+Cecil,,Attorney General,,Republican,Richard D. Bennett,9159,
+Charles,,Attorney General,,Democratic,J. Joseph Curran Jr.,10153,TRUE
+Charles,,Attorney General,,Republican,Richard D. Bennett,12572,
+Dorchester,,Attorney General,,Democratic,J. Joseph Curran Jr.,3399,TRUE
+Dorchester,,Attorney General,,Republican,Richard D. Bennett,4188,
+Frederick,,Attorney General,,Democratic,J. Joseph Curran Jr.,16622,TRUE
+Frederick,,Attorney General,,Republican,Richard D. Bennett,28704,
+Garrett,,Attorney General,,Democratic,J. Joseph Curran Jr.,2092,TRUE
+Garrett,,Attorney General,,Republican,Richard D. Bennett,4621,
+Harford,,Attorney General,,Democratic,J. Joseph Curran Jr.,27592,TRUE
+Harford,,Attorney General,,Republican,Richard D. Bennett,34797,
+Howard,,Attorney General,,Democratic,J. Joseph Curran Jr.,34668,TRUE
+Howard,,Attorney General,,Republican,Richard D. Bennett,35942,
+Kent,,Attorney General,,Democratic,J. Joseph Curran Jr.,3279,TRUE
+Kent,,Attorney General,,Republican,Richard D. Bennett,2965,
+Montgomery,,Attorney General,,Democratic,J. Joseph Curran Jr.,136164,TRUE
+Montgomery,,Attorney General,,Republican,Richard D. Bennett,105738,
+Prince George's,,Attorney General,,Democratic,J. Joseph Curran Jr.,104909,TRUE
+Prince George's,,Attorney General,,Republican,Richard D. Bennett,45230,
+Queen Anne's,,Attorney General,,Democratic,J. Joseph Curran Jr.,4473,TRUE
+Queen Anne's,,Attorney General,,Republican,Richard D. Bennett,5822,
+St. Mary's,,Attorney General,,Democratic,J. Joseph Curran Jr.,7663,TRUE
+St. Mary's,,Attorney General,,Republican,Richard D. Bennett,9831,
+Somerset,,Attorney General,,Democratic,J. Joseph Curran Jr.,2043,TRUE
+Somerset,,Attorney General,,Republican,Richard D. Bennett,3192,
+Talbot,,Attorney General,,Democratic,J. Joseph Curran Jr.,3741,TRUE
+Talbot,,Attorney General,,Republican,Richard D. Bennett,5908,
+Washington,,Attorney General,,Democratic,J. Joseph Curran Jr.,10625,TRUE
+Washington,,Attorney General,,Republican,Richard D. Bennett,19290,
+Wicomico,,Attorney General,,Democratic,J. Joseph Curran Jr.,7455,TRUE
+Wicomico,,Attorney General,,Republican,Richard D. Bennett,13194,
+Worcester,,Attorney General,,Democratic,J. Joseph Curran Jr.,5224,TRUE
+Worcester,,Attorney General,,Republican,Richard D. Bennett,7584,
+Allegany,,U.S. Senator,,Democratic,Paul S. Sarbanes,11185,
+Allegany,,U.S. Senator,,Republican,William Brock,9190,
+Allegany,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Anne Arundel,,U.S. Senator,,Democratic,Paul S. Sarbanes,66138,
+Anne Arundel,,U.S. Senator,,Republican,William Brock,71255,
+Anne Arundel,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,14,
+Baltimore City,,U.S. Senator,,Democratic,Paul S. Sarbanes,118796,
+Baltimore City,,U.S. Senator,,Republican,William Brock,26632,
+Baltimore City,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,3,
+Baltimore,,U.S. Senator,,Democratic,Paul S. Sarbanes,126189,
+Baltimore,,U.S. Senator,,Republican,William Brock,98813,
+Baltimore,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,33,
+Calvert,,U.S. Senator,,Democratic,Paul S. Sarbanes,8978,
+Calvert,,U.S. Senator,,Republican,William Brock,8896,
+Calvert,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Caroline,,U.S. Senator,,Democratic,Paul S. Sarbanes,3089,
+Caroline,,U.S. Senator,,Republican,William Brock,3411,
+Caroline,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Carroll,,U.S. Senator,,Democratic,Paul S. Sarbanes,18386,
+Carroll,,U.S. Senator,,Republican,William Brock,24913,
+Carroll,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,4,
+Cecil,,U.S. Senator,,Democratic,Paul S. Sarbanes,9140,
+Cecil,,U.S. Senator,,Republican,William Brock,8935,
+Cecil,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Charles,,U.S. Senator,,Democratic,Paul S. Sarbanes,12986,
+Charles,,U.S. Senator,,Republican,William Brock,12131,
+Charles,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Dorchester,,U.S. Senator,,Democratic,Paul S. Sarbanes,4377,
+Dorchester,,U.S. Senator,,Republican,William Brock,3896,
+Dorchester,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Frederick,,U.S. Senator,,Democratic,Paul S. Sarbanes,21402,
+Frederick,,U.S. Senator,,Republican,William Brock,25695,
+Frederick,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,3,
+Garrett,,U.S. Senator,,Democratic,Paul S. Sarbanes,3273,
+Garrett,,U.S. Senator,,Republican,William Brock,4465,
+Garrett,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Harford,,U.S. Senator,,Democratic,Paul S. Sarbanes,32269,
+Harford,,U.S. Senator,,Republican,William Brock,31779,
+Harford,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,2,
+Howard,,U.S. Senator,,Democratic,Paul S. Sarbanes,40106,
+Howard,,U.S. Senator,,Republican,William Brock,32513,
+Howard,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,1,
+Kent,,U.S. Senator,,Democratic,Paul S. Sarbanes,3746,
+Kent,,U.S. Senator,,Republican,William Brock,2802,
+Kent,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Montgomery,,U.S. Senator,,Democratic,Paul S. Sarbanes,157737,
+Montgomery,,U.S. Senator,,Republican,William Brock,94197,
+Montgomery,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,2,
+Prince George's,,U.S. Senator,,Democratic,Paul S. Sarbanes,116485,
+Prince George's,,U.S. Senator,,Republican,William Brock,42650,
+Prince George's,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Queen Anne's,,U.S. Senator,,Democratic,Paul S. Sarbanes,5370,
+Queen Anne's,,U.S. Senator,,Republican,William Brock,5637,
+Queen Anne's,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,4,
+St. Mary's,,U.S. Senator,,Democratic,Paul S. Sarbanes,10484,
+St. Mary's,,U.S. Senator,,Republican,William Brock,8255,
+St. Mary's,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Somerset,,U.S. Senator,,Democratic,Paul S. Sarbanes,3372,
+Somerset,,U.S. Senator,,Republican,William Brock,2744,
+Somerset,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Talbot,,U.S. Senator,,Democratic,Paul S. Sarbanes,4490,
+Talbot,,U.S. Senator,,Republican,William Brock,6004,
+Talbot,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Washington,,U.S. Senator,,Democratic,Paul S. Sarbanes,13085,
+Washington,,U.S. Senator,,Republican,William Brock,18395,
+Washington,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,3,
+Wicomico,,U.S. Senator,,Democratic,Paul S. Sarbanes,11261,
+Wicomico,,U.S. Senator,,Republican,William Brock,10291,
+Wicomico,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,0,
+Worcester,,U.S. Senator,,Democratic,Paul S. Sarbanes,6781,
+Worcester,,U.S. Senator,,Republican,William Brock,6409,
+Worcester,,U.S. Senator,,Democratic,Terri Tilghman Deakyne,2,
+Anne Arundel,,Representative in Congress,,Democratic,Wayne Boyle,104,
+Anne Arundel,,Representative in Congress,,Democratic,Ralph T. Gies,31128,
+Anne Arundel,,Representative in Congress,,Republican,Wayne T. Gilchrest,47478,TRUE
+Baltimore City,,Representative in Congress,,Democratic,Wayne Boyle,0,
+Baltimore City,,Representative in Congress,,Democratic,Ralph T. Gies,644,
+Baltimore City,,Representative in Congress,,Republican,Wayne T. Gilchrest,739,TRUE
+Caroline,,Representative in Congress,,Democratic,Wayne Boyle,1,
+Caroline,,Representative in Congress,,Democratic,Ralph T. Gies,1473,
+Caroline,,Representative in Congress,,Republican,Wayne T. Gilchrest,4696,TRUE
+Cecil,,Representative in Congress,,Democratic,Wayne Boyle,3,
+Cecil,,Representative in Congress,,Democratic,Ralph T. Gies,5191,
+Cecil,,Representative in Congress,,Republican,Wayne T. Gilchrest,12195,TRUE
+Dorchester,,Representative in Congress,,Democratic,Wayne Boyle,5,
+Dorchester,,Representative in Congress,,Democratic,Ralph T. Gies,2082,
+Dorchester,,Representative in Congress,,Republican,Wayne T. Gilchrest,5581,TRUE
+Kent,,Representative in Congress,,Democratic,Wayne Boyle,1,
+Kent,,Representative in Congress,,Democratic,Ralph T. Gies,1120,
+Kent,,Representative in Congress,,Republican,Wayne T. Gilchrest,5488,TRUE
+Queen Anne's,,Representative in Congress,,Democratic,Wayne Boyle,9,
+Queen Anne's,,Representative in Congress,,Democratic,Ralph T. Gies,2349,
+Queen Anne's,,Representative in Congress,,Republican,Wayne T. Gilchrest,8326,TRUE
+Somerset,,Representative in Congress,,Democratic,Wayne Boyle,0,
+Somerset,,Representative in Congress,,Democratic,Ralph T. Gies,1891,
+Somerset,,Representative in Congress,,Republican,Wayne T. Gilchrest,4030,TRUE
+Talbot,,Representative in Congress,,Democratic,Wayne Boyle,1,
+Talbot,,Representative in Congress,,Democratic,Ralph T. Gies,1703,
+Talbot,,Representative in Congress,,Republican,Wayne T. Gilchrest,8333,TRUE
+Wicomico,,Representative in Congress,,Democratic,Wayne Boyle,3,
+Wicomico,,Representative in Congress,,Democratic,Ralph T. Gies,6492,
+Wicomico,,Representative in Congress,,Republican,Wayne T. Gilchrest,14749,TRUE
+Worcester,,Representative in Congress,,Democratic,Wayne Boyle,0,
+Worcester,,Representative in Congress,,Democratic,Ralph T. Gies,3639,
+Worcester,,Representative in Congress,,Republican,Wayne T. Gilchrest,9360,TRUE
+Anne Arundel,,Representative in Congress,,Democratic,Gerry L. Brewster,5444,
+Anne Arundel,,Representative in Congress,,Democratic,John Benjamin Liston,0,
+Anne Arundel,,Representative in Congress,,Democratic,James A. Young,2,
+Anne Arundel,,Representative in Congress,,Republican,Robert L. Ehrlich Jr.,10833,TRUE
+Anne Arundel,,Representative in Congress,,Independent,Charles G. Grace,3,
+Baltimore,,Representative in Congress,,Democratic,Gerry L. Brewster,46282,
+Baltimore,,Representative in Congress,,Democratic,John Benjamin Liston,9,
+Baltimore,,Representative in Congress,,Democratic,James A. Young,5,
+Baltimore,,Representative in Congress,,Republican,Robert L. Ehrlich Jr.,73869,TRUE
+Baltimore,,Representative in Congress,,Independent,Charles G. Grace,12,
+Harford,,Representative in Congress,,Democratic,Gerry L. Brewster,22549,
+Harford,,Representative in Congress,,Democratic,John Benjamin Liston,4,
+Harford,,Representative in Congress,,Democratic,James A. Young,3,
+Harford,,Representative in Congress,,Republican,Robert L. Ehrlich Jr.,40460,TRUE
+Harford,,Representative in Congress,,Independent,Charles G. Grace,5,
+Anne Arundel,,Representative in Congress,,Democratic,Benjamin L. Cardin,8043,TRUE
+Anne Arundel,,Representative in Congress,,Republican,Robert Ryan Tousey,6089,
+Baltimore City,,Representative in Congress,,Democratic,Benjamin L. Cardin,43621,TRUE
+Baltimore City,,Representative in Congress,,Republican,Robert Ryan Tousey,12173,
+Baltimore,,Representative in Congress,,Democratic,Benjamin L. Cardin,46448,TRUE
+Baltimore,,Representative in Congress,,Republican,Robert Ryan Tousey,17790,
+Howard,,Representative in Congress,,Democratic,Benjamin L. Cardin,19157,TRUE
+Howard,,Representative in Congress,,Republican,Robert Ryan Tousey,11914,
+Montgomery,,Representative in Congress,,Democratic,Albert R. Wynn,26242,TRUE
+Montgomery,,Representative in Congress,,Republican,Michele Dyson,16170,
+Prince George's,,Representative in Congress,,Democratic,Albert R. Wynn,66906,TRUE
+Prince George's,,Representative in Congress,,Republican,Michele Dyson,14829,
+Anne Arundel,,Representative in Congress,,Democratic,Harold Glynn Dial,7,
+Anne Arundel,,Representative in Congress,,Democratic,Steny H. Hoyer,11712,TRUE
+Anne Arundel,,Representative in Congress,,Republican,Donald Devine,13651,
+Anne Arundel,,Representative in Congress,,Republican,Matthew Lorin Groom,0,
+Calvert,,Representative in Congress,,Democratic,Harold Glynn Dial,0,
+Calvert,,Representative in Congress,,Democratic,Steny H. Hoyer,9214,TRUE
+Calvert,,Representative in Congress,,Republican,Donald Devine,8837,
+Calvert,,Representative in Congress,,Republican,Matthew Lorin Groom,0,
+Charles,,Representative in Congress,,Democratic,Harold Glynn Dial,5,
+Charles,,Representative in Congress,,Democratic,Steny H. Hoyer,13827,TRUE
+Charles,,Representative in Congress,,Republican,Donald Devine,11496,
+Charles,,Representative in Congress,,Republican,Matthew Lorin Groom,0,
+Prince George's,,Representative in Congress,,Democratic,Harold Glynn Dial,1,
+Prince George's,,Representative in Congress,,Democratic,Steny H. Hoyer,52447,TRUE
+Prince George's,,Representative in Congress,,Republican,Donald Devine,27831,
+Prince George's,,Representative in Congress,,Republican,Matthew Lorin Groom,0,
+St. Mary's,,Representative in Congress,,Democratic,Harold Glynn Dial,0,
+St. Mary's,,Representative in Congress,,Democratic,Steny H. Hoyer,11621,TRUE
+St. Mary's,,Representative in Congress,,Republican,Donald Devine,7396,
+St. Mary's,,Representative in Congress,,Republican,Matthew Lorin Groom,0,
+Allegany,,Representative in Congress,,Democratic,Paul Muldowney,7048,
+Allegany,,Representative in Congress,,Republican,Roscoe Bartlett,12296,TRUE
+Carroll,,Representative in Congress,,Democratic,Paul Muldowney,11795,
+Carroll,,Representative in Congress,,Republican,Roscoe Bartlett,30123,TRUE
+Frederick,,Representative in Congress,,Democratic,Paul Muldowney,15445,
+Frederick,,Representative in Congress,,Republican,Roscoe Bartlett,31462,TRUE
+Garrett,,Representative in Congress,,Democratic,Paul Muldowney,1742,
+Garrett,,Representative in Congress,,Republican,Roscoe Bartlett,5901,TRUE
+Howard,,Representative in Congress,,Democratic,Paul Muldowney,15286,
+Howard,,Representative in Congress,,Republican,Roscoe Bartlett,23672,TRUE
+Washington,,Representative in Congress,,Democratic,Paul Muldowney,12095,
+Washington,,Representative in Congress,,Republican,Roscoe Bartlett,19355,TRUE
+Baltimore City,,Representative in Congress,,Democratic,Kweisi Mfume,76550,TRUE
+Baltimore City,,Representative in Congress,,Republican,Kenneth Kondner,7215,
+Baltimore,,Representative in Congress,,Democratic,Kweisi Mfume,20466,TRUE
+Baltimore,,Representative in Congress,,Republican,Kenneth Kondner,14792,
+Montgomery,,Representative in Congress,,Democratic,Steven Van Grack,60660,
+Montgomery,,Representative in Congress,,Republican,Constance A. Morella,143449,TRUE
+Allegany,,State Senator,,Democratic,Edward A. Malloy Jr.,6739,
+Allegany,,State Senator,,Republican,John J. Hafer,14298,TRUE
+Garrett,,State Senator,,Democratic,Edward A. Malloy Jr.,1470,
+Garrett,,State Senator,,Republican,John J. Hafer,6198,TRUE
+Washington,,State Senator,,Democratic,Laura J. Wright,4535,
+Washington,,State Senator,,Republican,Donald F. Munson,20242,TRUE
+Frederick,,State Senator,,Democratic,Charles R. Luttrell,7761,
+Frederick,,State Senator,,Republican,John W. Derr,15556,TRUE
+Washington,,State Senator,,Democratic,Charles R. Luttrell,1273,
+Washington,,State Senator,,Republican,John W. Derr,4501,TRUE
+Carroll,,State Senator,,Democratic,George Littrell,2052,
+Carroll,,State Senator,,Republican,Timothy R. Ferguson,5169,TRUE
+Frederick,,State Senator,,Democratic,George Littrell,12444,
+Frederick,,State Senator,,Republican,Timothy R. Ferguson,10806,TRUE
+Carroll,,State Senator,,Democratic,Cynthia Huggins Cummings,12857,
+Carroll,,State Senator,,Republican,Larry E. Haines,22599,TRUE
+Baltimore,,State Senator,,Democratic,Michael J. Collins,11566,TRUE
+Baltimore,,State Senator,,Republican,Alfred E. Clasing Jr.,9254,
+Harford,,State Senator,,Democratic,Michael J. Collins,897,TRUE
+Harford,,State Senator,,Republican,Alfred E. Clasing Jr.,1257,
+Baltimore,,State Senator,,Democratic,Norman R. Stone Jr.,16853,TRUE
+Baltimore,,State Senator,,Republican,Russell Mirabile,8710,
+Baltimore City,,State Senator,,Democratic,Thomas L. Bromwell,903,TRUE
+Baltimore City,,State Senator,,Republican,John J. Bishop,573,
+Baltimore,,State Senator,,Democratic,Thomas L. Bromwell,16590,TRUE
+Baltimore,,State Senator,,Republican,John J. Bishop,13479,
+Baltimore,,State Senator,,Republican,F. Vernon Boozer,27143,TRUE
+Baltimore City,,State Senator,,Democratic,Delores G. Kelley,4394,TRUE
+Baltimore City,,State Senator,,Republican,Jerome Goodman,324,
+Baltimore,,State Senator,,Democratic,Delores G. Kelley,13929,TRUE
+Baltimore,,State Senator,,Republican,Jerome Goodman,4576,
+Baltimore,,State Senator,,Democratic,Paula C. Hollinger,24226,TRUE
+Baltimore,,State Senator,,Republican,Richard Manski,14082,
+Baltimore,,State Senator,,Democratic,Edward J. Kasemeyer,6885,TRUE
+Baltimore,,State Senator,,Republican,David P. Maier,7553,
+Howard,,State Senator,,Democratic,Edward J. Kasemeyer,9236,TRUE
+Howard,,State Senator,,Republican,David P. Maier,7753,
+Howard,,State Senator,,Democratic,Virginia M. Thomas,12519,
+Howard,,State Senator,,Republican,Martin G. Madden,13710,TRUE
+Prince George's,,State Senator,,Democratic,Virginia M. Thomas,2121,
+Prince George's,,State Senator,,Republican,Martin G. Madden,2905,TRUE
+Howard,,State Senator,,Democratic,James P. Mundy,11772,
+Howard,,State Senator,,Republican,Christopher J. McCabe,16276,TRUE
+Montgomery,,State Senator,,Democratic,James P. Mundy,7427,
+Montgomery,,State Senator,,Republican,Christopher J. McCabe,6943,TRUE
+Montgomery,,State Senator,,Democratic,Laurence Levitan,16616,
+Montgomery,,State Senator,,Republican,Jean W. Roesser,20272,TRUE
+Montgomery,,State Senator,,Democratic,Brian E. Frosh,25292,TRUE
+Montgomery,,State Senator,,Republican,Daniel J. Cronin,14377,
+Montgomery,,State Senator,,Democratic,Jennie M. Forehand,19194,TRUE
+Montgomery,,State Senator,,Democratic,Lih Y. Young,430,
+Montgomery,,State Senator,,Democratic,Christopher Van Hollen,21669,TRUE
+Montgomery,,State Senator,,Republican,Albert E. Bullock,10231,
+Montgomery,,State Senator,,Independent,Mark Merritt Spradley,66,
+Montgomery,,State Senator,,Democratic,Leonard H. Teitelbaum,22630,TRUE
+Montgomery,,State Senator,,Republican,Lynn Siguenza,12569,
+Montgomery,,State Senator,,Democratic,Ida G. Ruben,18353,TRUE
+Montgomery,,State Senator,,Republican,John C. Leahy,7848,
+Prince George's,,State Senator,,Democratic,Arthur Dorman,12801,TRUE
+Prince George's,,State Senator,,Republican,Herman B. Bouma,6932,
+Prince George's,,State Senator,,Democratic,Paul G. Pinsky,11713,TRUE
+Prince George's,,State Senator,,Republican,John A. Schaffer,6849,
+Prince George's,,State Senator,,Democratic,Leo E. Green,23606,TRUE
+Prince George's,,State Senator,,Democratic,Decatur W. Trotter,15725,TRUE
+Prince George's,,State Senator,,Democratic,Ulysses Currie,16019,TRUE
+Prince George's,,State Senator,,Democratic,Gloria Lawlah,17590,TRUE
+Prince George's,,State Senator,,Republican,Mary Bell G. Shepherd,5321,
+Anne Arundel,,State Senator,,Democratic,Thomas V. Mike Miller Jr.,2078,TRUE
+Anne Arundel,,State Senator,,Republican,Joan Austin,1510,
+Calvert,,State Senator,,Democratic,Thomas V. Mike Miller Jr.,3938,TRUE
+Calvert,,State Senator,,Republican,Joan Austin,3212,
+Prince George's,,State Senator,,Democratic,Thomas V. Mike Miller Jr.,15683,TRUE
+Prince George's,,State Senator,,Republican,Joan Austin,5424,
+Charles,,State Senator,,Democratic,Thomas McLain Middleton,14195,TRUE
+Charles,,State Senator,,Republican,James Easter,10804,
+Calvert,,State Senator,,Democratic,Roy Dyson,4884,TRUE
+Calvert,,State Senator,,Republican,James Manning McKay,5075,
+St. Mary's,,State Senator,,Democratic,Roy Dyson,11776,TRUE
+St. Mary's,,State Senator,,Republican,James Manning McKay,7603,
+Anne Arundel,,State Senator,,Democratic,John C. Astle,18631,TRUE
+Anne Arundel,,State Senator,,Republican,Mary McNally Rose,17613,
+Anne Arundel,,State Senator,,Democratic,Philip C. Jimeno,19518,TRUE
+Anne Arundel,,State Senator,,Republican,Nancy M. Schrum,13402,
+Anne Arundel,,State Senator,,Democratic,Michael J. Wagner,13086,
+Anne Arundel,,State Senator,,Republican,Edward Middlebrooks,14055,TRUE
+Anne Arundel,,State Senator,,Republican,John A. Cade,27817,TRUE
+Harford,,State Senator,,Democratic,Habern Freeman,14676,
+Harford,,State Senator,,Republican,David R. Craig,17444,TRUE
+Cecil,,State Senator,,Democratic,William H. Amoss,5206,TRUE
+Cecil,,State Senator,,Republican,Gwendalynne G. Corkran,3071,
+Cecil,,State Senator,,Independent,Catharine Wilson,282,
+Harford,,State Senator,,Democratic,William H. Amoss,14787,TRUE
+Harford,,State Senator,,Republican,Gwendalynne G. Corkran,10174,
+Harford,,State Senator,,Independent,Catharine Wilson,3203,
+Caroline,,State Senator,,Democratic,Walter M. Baker,423,TRUE
+Caroline,,State Senator,,Democratic,Janice L. Graham,1,
+Cecil,,State Senator,,Democratic,Walter M. Baker,5986,TRUE
+Cecil,,State Senator,,Democratic,Janice L. Graham,84,
+Kent,,State Senator,,Democratic,Walter M. Baker,4503,TRUE
+Kent,,State Senator,,Democratic,Janice L. Graham,132,
+Queen Anne's,,State Senator,,Democratic,Walter M. Baker,6103,TRUE
+Queen Anne's,,State Senator,,Democratic,Janice L. Graham,82,
+Talbot,,State Senator,,Democratic,Walter M. Baker,966,TRUE
+Talbot,,State Senator,,Democratic,Janice L. Graham,3,
+Caroline,,State Senator,,Democratic,Samuel Q. Johnson III,1953,
+Caroline,,State Senator,,Republican,Richard F. Colburn,3615,TRUE
+Dorchester,,State Senator,,Democratic,Samuel Q. Johnson III,3895,
+Dorchester,,State Senator,,Republican,Richard F. Colburn,4606,TRUE
+Talbot,,State Senator,,Democratic,Samuel Q. Johnson III,2101,
+Talbot,,State Senator,,Republican,Richard F. Colburn,5715,TRUE
+Wicomico,,State Senator,,Democratic,Samuel Q. Johnson III,5378,
+Wicomico,,State Senator,,Republican,Richard F. Colburn,2288,TRUE
+Somerset,,State Senator,,Democratic,Dennis C. Donaldson,1170,
+Somerset,,State Senator,,Republican,J. Lowell Stoltzfus,5014,TRUE
+Wicomico,,State Senator,,Democratic,Dennis C. Donaldson,4255,
+Wicomico,,State Senator,,Republican,J. Lowell Stoltzfus,9106,TRUE
+Worcester,,State Senator,,Democratic,Dennis C. Donaldson,5369,
+Worcester,,State Senator,,Republican,J. Lowell Stoltzfus,7663,TRUE
+Montgomery,,State Senator,,Democratic,Gene W. Counihan,13072,
+Montgomery,,State Senator,,Republican,Patrick J. Hogan,15101,TRUE
+Baltimore City,,State Senator,,Democratic,Ralph M. Hughes,15133,TRUE
+Baltimore City,,State Senator,,Republican,Melvin Stubbs,882,
+Baltimore City,,State Senator,,Democratic,Clarence W. Blount,15902,TRUE
+Baltimore City,,State Senator,,Democratic,Barbara A. Hoffman,15514,TRUE
+Baltimore City,,State Senator,,Republican,J. Gary Lee,4151,
+Baltimore,,State Senator,,Democratic,Barbara A. Hoffman,6737,TRUE
+Baltimore,,State Senator,,Republican,J. Gary Lee,3238,
+Baltimore City,,State Senator,,Democratic,John A. Pica Jr.,18374,TRUE
+Baltimore City,,State Senator,,Democratic,Larry Young,10460,TRUE
+Baltimore City,,State Senator,,Democratic,Nathaniel James McFadden,12568,TRUE
+Baltimore City,,State Senator,,Democratic,Perry Sfikas,11953,TRUE
+Baltimore,,State Senator,,Democratic,Perry Sfikas,1625,TRUE
+Baltimore City,,State Senator,,Democratic,George W. Della,8436,TRUE
+Baltimore City,,State Senator,,Republican,John A. Hoffman,2044,
+Baltimore,,State Senator,,Democratic,George W. Della,4139,TRUE
+Baltimore,,State Senator,,Republican,John A. Hoffman,5720,
+Allegany,,House of Delegates,,Republican,George C. Edwards,1352,TRUE
+Garrett,,House of Delegates,,Republican,George C. Edwards,6803,TRUE
+Allegany,,House of Delegates,,Democratic,Betty Workman,7050,TRUE
+Allegany,,House of Delegates,,Republican,Stephen P. Crossland,3204,
+Allegany,,House of Delegates,,Democratic,Casper R. Taylor Jr.,5928,TRUE
+Washington,,House of Delegates,,Democratic,Richard E. Roulette,3358,
+Washington,,House of Delegates,,Republican,Robert A. McKee,6085,TRUE
+Washington,,House of Delegates,,Democratic,Bruce Poole,4219,TRUE
+Washington,,House of Delegates,,Republican,Richard D. Wiles,4143,
+Washington,,House of Delegates,,Democratic,John P. Donoghue,4013,TRUE
+Washington,,House of Delegates,,Republican,Bertrand Iseminger,3027,
+Washington,,House of Delegates,,Democratic,Eugene E. Morris,9,
+Frederick,,House of Delegates,,Democratic,Sue Hecht,10319,TRUE
+Frederick,,House of Delegates,,Democratic,Royd Smith,9118,
+Frederick,,House of Delegates,,Democratic,Ronald L. Sundergill,10175,
+Frederick,,House of Delegates,,Republican,Melvin L. Castle,9568,
+Frederick,,House of Delegates,,Republican,Louise V. Snodgrass,10948,TRUE
+Frederick,,House of Delegates,,Republican,J. Anita Stup,16297,TRUE
+Washington,,House of Delegates,,Democratic,Sue Hecht,2381,TRUE
+Washington,,House of Delegates,,Democratic,Royd Smith,1692,
+Washington,,House of Delegates,,Democratic,Ronald L. Sundergill,2291,
+Washington,,House of Delegates,,Republican,Melvin L. Castle,2659,
+Washington,,House of Delegates,,Republican,Louise V. Snodgrass,3123,TRUE
+Washington,,House of Delegates,,Republican,J. Anita Stup,3965,TRUE
+Frederick,,House of Delegates,,Democratic,Thomas H. Hattery,9900,
+Frederick,,House of Delegates,,Democratic,Thomas Gordon Slater,5785,
+Frederick,,House of Delegates,,Republican,David R. Brinkley,12296,TRUE
+Frederick,,House of Delegates,,Republican,Paul S. Stull,11789,TRUE
+Carroll,,House of Delegates,,Democratic,Donald B. Elliott,6073,TRUE
+Carroll,,House of Delegates,,Democratic,Roy Pfeiffer,1201,
+Frederick,,House of Delegates,,Democratic,Donald B. Elliott,1330,TRUE
+Frederick,,House of Delegates,,Democratic,Roy Pfeiffer,849,
+Carroll,,House of Delegates,,Democratic,Philip R. Deitchman,6792,
+Carroll,,House of Delegates,,Democratic,Richard N. Dixon,19674,TRUE
+Carroll,,House of Delegates,,Democratic,Nancy Reter Stocksdale,22705,TRUE
+Carroll,,House of Delegates,,Democratic,Ellen Leahy Willis,11748,
+Carroll,,House of Delegates,,Republican,W. David Blair,17819,
+Carroll,,House of Delegates,,Republican,Joseph M. Getty,18544,TRUE
+Baltimore,,House of Delegates,,Democratic,Diane DeCarlo,10690,TRUE
+Baltimore,,House of Delegates,,Democratic,E. Farrell Maddox,10473,
+Baltimore,,House of Delegates,,Democratic,Michael H. Weir,10452,TRUE
+Baltimore,,House of Delegates,,Republican,Michael J. Davis,8745,
+Baltimore,,House of Delegates,,Republican,Nancy Hastings,9677,
+Baltimore,,House of Delegates,,Republican,Kenneth Holt,10152,TRUE
+Harford,,House of Delegates,,Democratic,Diane DeCarlo,755,TRUE
+Harford,,House of Delegates,,Democratic,E. Farrell Maddox,662,
+Harford,,House of Delegates,,Democratic,Michael H. Weir,802,TRUE
+Harford,,House of Delegates,,Republican,Michael J. Davis,1112,
+Harford,,House of Delegates,,Republican,Nancy Hastings,1369,
+Harford,,House of Delegates,,Republican,Kenneth Holt,1547,TRUE
+Baltimore,,House of Delegates,,Democratic,John S. Arnick,14469,TRUE
+Baltimore,,House of Delegates,,Democratic,Joseph Minnick,15880,TRUE
+Baltimore,,House of Delegates,,Democratic,Jacob J. Mohorovic Jr.,16059,TRUE
+Baltimore,,House of Delegates,,Republican,Jacqueline W. Madison,9149,
+Baltimore,,House of Delegates,,Republican,Robert J. Parsons,7628,
+Baltimore City,,House of Delegates,,Democratic,John G. Disney,648,
+Baltimore City,,House of Delegates,,Democratic,Katherine Klausmeier,851,TRUE
+Baltimore City,,House of Delegates,,Democratic,Daniel E. McKew,678,
+Baltimore City,,House of Delegates,,Republican,Calvin Clemons,620,
+Baltimore City,,House of Delegates,,Republican,James F. Ports Jr.,594,TRUE
+Baltimore City,,House of Delegates,,Republican,Alfred W. Redmer Jr.,656,TRUE
+Baltimore,,House of Delegates,,Democratic,John G. Disney,11238,
+Baltimore,,House of Delegates,,Democratic,Katherine Klausmeier,16645,TRUE
+Baltimore,,House of Delegates,,Democratic,Daniel E. McKew,12253,
+Baltimore,,House of Delegates,,Republican,Calvin Clemons,13376,
+Baltimore,,House of Delegates,,Republican,James F. Ports Jr.,14650,TRUE
+Baltimore,,House of Delegates,,Republican,Alfred W. Redmer Jr.,15717,TRUE
+Baltimore,,House of Delegates,,Democratic,Shelley Buckingham,7829,
+Baltimore,,House of Delegates,,Democratic,Raymond A. Huber,5823,
+Baltimore,,House of Delegates,,Republican,A. Wade Kach,18734,TRUE
+Baltimore,,House of Delegates,,Republican,Martha Scanlan Klima,19927,TRUE
+Baltimore,,House of Delegates,,Democratic,Stephen W. Lafferty,5823,
+Baltimore,,House of Delegates,,Republican,James M. Kelly,7343,TRUE
+Baltimore City,,House of Delegates,,Democratic,Clifford H. Andrews,336,
+Baltimore City,,House of Delegates,,Democratic,Emmett C. Burns Jr.,4206,TRUE
+Baltimore City,,House of Delegates,,Democratic,Shirley Nathan-Pulliam,4368,TRUE
+Baltimore City,,House of Delegates,,Democratic,Joan N. Parker,4069,TRUE
+Baltimore City,,House of Delegates,,Republican,Beverly E. Goldstein,387,
+Baltimore City,,House of Delegates,,Republican,Clifton McDonald,324,
+Baltimore,,House of Delegates,,Democratic,Clifford H. Andrews,3703,
+Baltimore,,House of Delegates,,Democratic,Emmett C. Burns Jr.,13431,TRUE
+Baltimore,,House of Delegates,,Democratic,Shirley Nathan-Pulliam,13043,TRUE
+Baltimore,,House of Delegates,,Democratic,Joan N. Parker,12850,TRUE
+Baltimore,,House of Delegates,,Republican,Beverly E. Goldstein,5148,
+Baltimore,,House of Delegates,,Republican,Clifton McDonald,3997,
+Baltimore,,House of Delegates,,Democratic,Michael J. Finifter,20489,TRUE
+Baltimore,,House of Delegates,,Democratic,Robert Frank,18359,TRUE
+Baltimore,,House of Delegates,,Democratic,Dan K. Morhaim,18952,TRUE
+Baltimore,,House of Delegates,,Republican,Michael Buchanan,17915,
+Baltimore,,House of Delegates,,Republican,Christian Cavey,14638,
+Baltimore,,House of Delegates,,Republican,Jodi L. Hammerman,15744,
+Baltimore,,House of Delegates,,Democratic,James E. Malone Jr.,8332,TRUE
+Baltimore,,House of Delegates,,Democratic,Kenneth H. Masters,7249,
+Baltimore,,House of Delegates,,Republican,Donald Drehoff,7355,
+Baltimore,,House of Delegates,,Republican,Donald E. Murphy,8042,TRUE
+Howard,,House of Delegates,,Democratic,James E. Malone Jr.,1380,TRUE
+Howard,,House of Delegates,,Democratic,Kenneth H. Masters,1278,
+Howard,,House of Delegates,,Republican,Donald Drehoff,2241,
+Howard,,House of Delegates,,Republican,Donald E. Murphy,2298,TRUE
+Howard,,House of Delegates,,Democratic,Elizabeth Bobo,7887,TRUE
+Howard,,House of Delegates,,Republican,Charles E. Scott,5535,
+Howard,,House of Delegates,,Democratic,Shane Pendergrass,12235,TRUE
+Howard,,House of Delegates,,Democratic,Frank S. Turner,10829,TRUE
+Howard,,House of Delegates,,Republican,Michael Grasso,10100,
+Howard,,House of Delegates,,Republican,Kenneth Miller,7096,
+Howard,,House of Delegates,,Independent,Arthur Reynolds,4467,
+Howard,,House of Delegates,,Democratic,John Giannetti Jr.,723,
+Howard,,House of Delegates,,Republican,John S. Morgan,1347,TRUE
+Prince George's,,House of Delegates,,Democratic,John Giannetti Jr.,2378,
+Prince George's,,House of Delegates,,Republican,John S. Morgan,2820,TRUE
+Montgomery,,House of Delegates,,Democratic,Sandra J. Morse,5739,
+Montgomery,,House of Delegates,,Republican,Patricia Anne Faulkner,6210,TRUE
+Howard,,House of Delegates,,Democratic,Andrew D. Levy,9796,
+Howard,,House of Delegates,,Democratic,Carolyn H. Willis,9845,
+Howard,,House of Delegates,,Republican,Robert L. Flanagan,17129,TRUE
+Howard,,House of Delegates,,Republican,Robert H. Kittleman,17005,TRUE
+Montgomery,,House of Delegates,,Democratic,Andrew D. Levy,977,
+Montgomery,,House of Delegates,,Democratic,Carolyn H. Willis,886,
+Montgomery,,House of Delegates,,Republican,Robert L. Flanagan,1025,TRUE
+Montgomery,,House of Delegates,,Republican,Robert H. Kittleman,970,TRUE
+Montgomery,,House of Delegates,,Democratic,Elizabeth Tookie Gentilcore,15325,
+Montgomery,,House of Delegates,,Democratic,Stuart D. Schooler,15882,
+Montgomery,,House of Delegates,,Democratic,Mark K. Shriver,20696,TRUE
+Montgomery,,House of Delegates,,Republican,Jean Cryor,18804,TRUE
+Montgomery,,House of Delegates,,Republican,Richard La Vay,17214,TRUE
+Montgomery,,House of Delegates,,Republican,Davis M. Richardson,15847,
+Montgomery,,House of Delegates,,Democratic,Gilbert J. Genn,24285,TRUE
+Montgomery,,House of Delegates,,Democratic,Marilyn Goldwater,24180,TRUE
+Montgomery,,House of Delegates,,Democratic,Nancy K. Kopp,25038,TRUE
+Montgomery,,House of Delegates,,Republican,Augustus Alzona,13289,
+Montgomery,,House of Delegates,,Republican,Douglas M. Brown,13872,
+Montgomery,,House of Delegates,,Republican,Brian Riley,14818,
+Montgomery,,House of Delegates,,Democratic,Kumar P. Barve,15978,TRUE
+Montgomery,,House of Delegates,,Democratic,Michael R. Gordon,18154,TRUE
+Montgomery,,House of Delegates,,Democratic,Cheryl C. Kagan,17081,TRUE
+Montgomery,,House of Delegates,,Republican,Harrison W. Fox Jr.,12709,TRUE
+Montgomery,,House of Delegates,,Democratic,Leon G. Billings,19399,TRUE
+Montgomery,,House of Delegates,,Democratic,Sharon Grosfeld,20108,TRUE
+Montgomery,,House of Delegates,,Democratic,John Adams Hurson,19326,TRUE
+Montgomery,,House of Delegates,,Republican,James Daniel Grazko,10222,
+Montgomery,,House of Delegates,,Republican,Eric H. Myrland,9418,
+Montgomery,,House of Delegates,,Republican,Socrates Yakoumatos,8947,
+Montgomery,,House of Delegates,,Other,Scott Becker,2323,
+Montgomery,,House of Delegates,,Democratic,Henry B. Heller,20939,TRUE
+Montgomery,,House of Delegates,,Democratic,Adrienne A. Mandel,20193,TRUE
+Montgomery,,House of Delegates,,Democratic,Carol S. Petzold,20160,TRUE
+Montgomery,,House of Delegates,,Republican,John P. Hewitt,13752,
+Montgomery,,House of Delegates,,Republican,Anthony M. Mora,12146,
+Montgomery,,House of Delegates,,Republican,Richard G. Solomon,14074,
+Montgomery,,House of Delegates,,Democratic,Dana Lee Dembrow,19679,TRUE
+Montgomery,,House of Delegates,,Democratic,Peter Franchot,18854,TRUE
+Montgomery,,House of Delegates,,Democratic,James Harrison,8248,
+Montgomery,,House of Delegates,,Democratic,Sheila Ellis Hixson,19423,TRUE
+Prince George's,,House of Delegates,,Democratic,Barbara Frush,12109,TRUE
+Prince George's,,House of Delegates,,Democratic,Pauline H. Menes,13207,TRUE
+Prince George's,,House of Delegates,,Democratic,James C. Rosapepe,12725,TRUE
+Prince George's,,House of Delegates,,Republican,Herbert F. Frymark,7554,
+Prince George's,,House of Delegates,,Democratic,Anne Healey,8475,TRUE
+Prince George's,,House of Delegates,,Democratic,Richard A. Palumbo,9246,TRUE
+Prince George's,,House of Delegates,,Republican,William Anthony McConkey,5584,
+Prince George's,,House of Delegates,,Republican,Keith L. Poptanich,3989,
+Prince George's,,House of Delegates,,Democratic,Rushern L. Baker III,3244,TRUE
+Prince George's,,House of Delegates,,Democratic,Mary A. Conroy,21435,TRUE
+Prince George's,,House of Delegates,,Democratic,Theodore W. Henderson,9862,
+Prince George's,,House of Delegates,,Democratic,James W. Hubbard,18978,
+Prince George's,,House of Delegates,,Democratic,Joan Breslin Pitkin,20930,TRUE
+Prince George's,,House of Delegates,,Republican,D. Alfred Schauer,10267,
+Prince George's,,House of Delegates,,Republican,Paul Tucker,10140,
+Prince George's,,House of Delegates,,Democratic,Joanne C. Benson,15086,TRUE
+Prince George's,,House of Delegates,,Democratic,Nathaniel Exum,15057,TRUE
+Prince George's,,House of Delegates,,Democratic,Carolyn J. B. Howard,14708,TRUE
+Prince George's,,House of Delegates,,Democratic,Michael A. Crumlin,14281,TRUE
+Prince George's,,House of Delegates,,Democratic,Dereck Davis,14509,TRUE
+Prince George's,,House of Delegates,,Democratic,Brenda Bethea Hughes,14728,TRUE
+Prince George's,,House of Delegates,,Democratic,C. Anthony Muse,17807,TRUE
+Prince George's,,House of Delegates,,Democratic,Obie Patterson,16483,TRUE
+Prince George's,,House of Delegates,,Democratic,David M. Valderrama,17206,TRUE
+Prince George's,,House of Delegates,,Republican,Max L. Buff,4814,
+Prince George's,,House of Delegates,,Republican,Claude W. Roxborough,4612,
+Prince George's,,House of Delegates,,Republican,Erich H. Schmidt,4215,
+Prince George's,,House of Delegates,,Democratic,James E. Proctor Jr.,13747,
+Prince George's,,House of Delegates,,Democratic,Joseph F. Vallario Jr.,14434,TRUE
+Prince George's,,House of Delegates,,Republican,Elmer L. Smith,5413,
+Prince George's,,House of Delegates,,Republican,James A. Woods,6703,
+Anne Arundel,,House of Delegates,,Democratic,George W. Owings III,2228,TRUE
+Anne Arundel,,House of Delegates,,Republican,Edward B. Finch,1386,
+Calvert,,House of Delegates,,Democratic,George W. Owings III,4809,TRUE
+Calvert,,House of Delegates,,Republican,Edward B. Finch,2997,
+Charles,,House of Delegates,,Democratic,Ruth Ann Hall,11176,
+Charles,,House of Delegates,,Democratic,Thomas E. Hutchins,11507,TRUE
+Charles,,House of Delegates,,Democratic,Samuel C. Linton,11993,TRUE
+Charles,,House of Delegates,,Democratic,Van T. Mitchell,12289,TRUE
+Charles,,House of Delegates,,Republican,Adam M. O'Kelley,10295,
+Charles,,House of Delegates,,Republican,Gerald Schuster,11416,
+St. Mary's,,House of Delegates,,Democratic,John F. Wood Jr.,5739,
+St. Mary's,,House of Delegates,,Republican,Donald Lee O'Neal,3083,
+St. Mary's,,House of Delegates,,Republican,John F. Slade III,5228,TRUE
+Calvert,,House of Delegates,,Democratic,Thomas Michael Pelagatti,5176,
+Calvert,,House of Delegates,,Republican,Anthony J. O'Donnell,5146,TRUE
+St. Mary's,,House of Delegates,,Democratic,Thomas Michael Pelagatti,631,
+St. Mary's,,House of Delegates,,Republican,Anthony J. O'Donnell,693,TRUE
+Anne Arundel,,House of Delegates,,Democratic,Michael E. Busch,18709,TRUE
+Anne Arundel,,House of Delegates,,Democratic,Virginia P. Clagett,18254,TRUE
+Anne Arundel,,House of Delegates,,Democratic,John C. Eldridge Jr.,13320,
+Anne Arundel,,House of Delegates,,Republican,Joan Beck,15974,
+Anne Arundel,,House of Delegates,,Republican,Phillip Bissett,18330,TRUE
+Anne Arundel,,House of Delegates,,Republican,Ralph C. Rocky Rosacker,16299,
+Anne Arundel,,House of Delegates,,Democratic,Joan Cadden,16492,TRUE
+Anne Arundel,,House of Delegates,,Democratic,W. Ray Huff,14203,
+Anne Arundel,,House of Delegates,,Democratic,C. Stokes Kolodziejski,13176,
+Anne Arundel,,House of Delegates,,Republican,Douglas Arnold,3586,
+Anne Arundel,,House of Delegates,,Republican,John R. Leopold,19960,TRUE
+Anne Arundel,,House of Delegates,,Republican,Victoria L. Schade,14801,TRUE
+Anne Arundel,,House of Delegates,,Democratic,Thomas H. Dixon III,11002,
+Anne Arundel,,House of Delegates,,Democratic,Mary Ann Love,12414,TRUE
+Anne Arundel,,House of Delegates,,Democratic,Victor A. Sulin,11872,
+Anne Arundel,,House of Delegates,,Republican,Michael W. Burns,12883,TRUE
+Anne Arundel,,House of Delegates,,Republican,James E. Rzepkowski,15147,TRUE
+Anne Arundel,,House of Delegates,,Republican,Gerald P. Starr,12166,
+Anne Arundel,,House of Delegates,,Democratic,David G. Boschert,13485,
+Anne Arundel,,House of Delegates,,Democratic,Michael F. Canning,12157,
+Anne Arundel,,House of Delegates,,Democratic,Marsha G. Perry,17618,TRUE
+Anne Arundel,,House of Delegates,,Republican,David Almy,16390,
+Anne Arundel,,House of Delegates,,Republican,Robert C. Baldwin,19628,TRUE
+Anne Arundel,,House of Delegates,,Republican,Janet Greenip,19545,TRUE
+Harford,,House of Delegates,,Democratic,Rose Mary Hatem Bonsack,17762,TRUE
+Harford,,House of Delegates,,Democratic,Mary Louise Preis,17380,TRUE
+Harford,,House of Delegates,,Democratic,B. Daniel Riley,13891,
+Harford,,House of Delegates,,Republican,Nancy Jacobs,18091,TRUE
+Harford,,House of Delegates,,Republican,Kenneth A. Thompson,10576,
+Harford,,House of Delegates,,Republican,Scott Williams,12362,
+Harford,,House of Delegates,,Democratic,Donald C. Fry,14458,TRUE
+Harford,,House of Delegates,,Democratic,Joseph V. Lutz,7858,
+Harford,,House of Delegates,,Republican,James F. Greenwell,10443,
+Harford,,House of Delegates,,Republican,James M. Harkins,18655,TRUE
+Cecil,,House of Delegates,,Democratic,David D. Rudolph,4175,TRUE
+Cecil,,House of Delegates,,Republican,Robert H. Ward,2450,
+Cecil,,House of Delegates,,Democratic,Ethel Ann Murray,1610,
+Caroline,,House of Delegates,,Democratic,Wheeler R. Baker,329,TRUE
+Caroline,,House of Delegates,,Democratic,Ronald A. Guns,326,TRUE
+Caroline,,House of Delegates,,Democratic,W. Michael Newnam,293,
+Caroline,,House of Delegates,,Republican,Sharon Maenner Carrick,309,
+Caroline,,House of Delegates,,Republican,Mary Roe Walkup,342,TRUE
+Caroline,,House of Delegates,,Republican,Allaire D. Williams,300,
+Cecil,,House of Delegates,,Democratic,Wheeler R. Baker,3369,TRUE
+Cecil,,House of Delegates,,Democratic,Ronald A. Guns,5505,TRUE
+Cecil,,House of Delegates,,Democratic,W. Michael Newnam,3281,
+Cecil,,House of Delegates,,Republican,Sharon Maenner Carrick,3976,
+Cecil,,House of Delegates,,Republican,Mary Roe Walkup,4412,TRUE
+Cecil,,House of Delegates,,Republican,Allaire D. Williams,3796,
+Kent,,House of Delegates,,Democratic,Wheeler R. Baker,2942,TRUE
+Kent,,House of Delegates,,Democratic,Ronald A. Guns,3633,TRUE
+Kent,,House of Delegates,,Democratic,W. Michael Newnam,3715,
+Kent,,House of Delegates,,Republican,Sharon Maenner Carrick,2122,
+Kent,,House of Delegates,,Republican,Mary Roe Walkup,2873,TRUE
+Kent,,House of Delegates,,Republican,Allaire D. Williams,1870,
+Queen Anne's,,House of Delegates,,Democratic,Wheeler R. Baker,6477,TRUE
+Queen Anne's,,House of Delegates,,Democratic,Ronald A. Guns,4653,TRUE
+Queen Anne's,,House of Delegates,,Democratic,W. Michael Newnam,3936,
+Queen Anne's,,House of Delegates,,Republican,Sharon Maenner Carrick,4180,
+Queen Anne's,,House of Delegates,,Republican,Mary Roe Walkup,5067,TRUE
+Queen Anne's,,House of Delegates,,Republican,Allaire D. Williams,4128,
+Talbot,,House of Delegates,,Democratic,Wheeler R. Baker,794,TRUE
+Talbot,,House of Delegates,,Democratic,Ronald A. Guns,798,TRUE
+Talbot,,House of Delegates,,Democratic,W. Michael Newnam,649,
+Talbot,,House of Delegates,,Republican,Sharon Maenner Carrick,763,
+Talbot,,House of Delegates,,Republican,Mary Roe Walkup,895,TRUE
+Talbot,,House of Delegates,,Republican,Allaire D. Williams,702,
+Dorchester,,House of Delegates,,Democratic,Rudolph C. Cane,505,
+Dorchester,,House of Delegates,,Republican,Don B. Hughes,684,TRUE
+Dorchester,,House of Delegates,,Independent,Lemuel D. Chester II,1019,
+Wicomico,,House of Delegates,,Democratic,Rudolph C. Cane,2263,
+Wicomico,,House of Delegates,,Republican,Don B. Hughes,2104,TRUE
+Wicomico,,House of Delegates,,Independent,Lemuel D. Chester II,280,
+Caroline,,House of Delegates,,Democratic,Philip Carey Foster,1324,
+Caroline,,House of Delegates,,Democratic,Robert Alan Thornton Jr.,3995,
+Caroline,,House of Delegates,,Republican,Adelaide C. Eckardt,2058,TRUE
+Caroline,,House of Delegates,,Republican,Kenneth D. Schisler,2997,TRUE
+Dorchester,,House of Delegates,,Democratic,Philip Carey Foster,1238,
+Dorchester,,House of Delegates,,Democratic,Robert Alan Thornton Jr.,2157,
+Dorchester,,House of Delegates,,Republican,Adelaide C. Eckardt,4247,TRUE
+Dorchester,,House of Delegates,,Republican,Kenneth D. Schisler,3689,TRUE
+Talbot,,House of Delegates,,Democratic,Philip Carey Foster,3346,
+Talbot,,House of Delegates,,Democratic,Robert Alan Thornton Jr.,2037,
+Talbot,,House of Delegates,,Republican,Adelaide C. Eckardt,3550,TRUE
+Talbot,,House of Delegates,,Republican,Kenneth D. Schisler,6646,TRUE
+Wicomico,,House of Delegates,,Democratic,Philip Carey Foster,710,
+Wicomico,,House of Delegates,,Democratic,Robert Alan Thornton Jr.,1051,
+Wicomico,,House of Delegates,,Republican,Adelaide C. Eckardt,1567,TRUE
+Wicomico,,House of Delegates,,Republican,Kenneth D. Schisler,1660,TRUE
+Somerset,,House of Delegates,,Democratic,Bennett Bozman,3929,TRUE
+Somerset,,House of Delegates,,Democratic,Charles A. Bruce Jr.,3062,
+Somerset,,House of Delegates,,Democratic,Norman H. Conway,3436,TRUE
+Somerset,,House of Delegates,,Republican,Ronald L. Bireley,1343,
+Somerset,,House of Delegates,,Republican,Charles McClenahan,3270,TRUE
+Somerset,,House of Delegates,,Republican,Christopher E. Mills,1751,
+Wicomico,,House of Delegates,,Democratic,Bennett Bozman,7142,TRUE
+Wicomico,,House of Delegates,,Democratic,Charles A. Bruce Jr.,4931,
+Wicomico,,House of Delegates,,Democratic,Norman H. Conway,7841,TRUE
+Wicomico,,House of Delegates,,Republican,Ronald L. Bireley,4806,
+Wicomico,,House of Delegates,,Republican,Charles McClenahan,6993,TRUE
+Wicomico,,House of Delegates,,Republican,Christopher E. Mills,5713,
+Worcester,,House of Delegates,,Democratic,Bennett Bozman,8631,TRUE
+Worcester,,House of Delegates,,Democratic,Charles A. Bruce Jr.,4598,
+Worcester,,House of Delegates,,Democratic,Norman H. Conway,6316,TRUE
+Worcester,,House of Delegates,,Republican,Ronald L. Bireley,4421,
+Worcester,,House of Delegates,,Republican,Charles McClenahan,6437,TRUE
+Worcester,,House of Delegates,,Republican,Christopher E. Mills,4832,
+Montgomery,,House of Delegates,,Democratic,Charles Barkley,12137,
+Montgomery,,House of Delegates,,Democratic,Anise Key Brown,10987,
+Montgomery,,House of Delegates,,Democratic,Anthony J. Santangelo,10939,
+Montgomery,,House of Delegates,,Republican,Raymond Beck,12311,TRUE
+Montgomery,,House of Delegates,,Republican,Barrie S. Ciliberti,12897,
+Montgomery,,House of Delegates,,Republican,Mathew Mossburg,13119,TRUE
+Montgomery,,House of Delegates,,Independent,Patricia Cummings,6471,
+Baltimore City,,House of Delegates,,Democratic,Tony E. Fulton,13700,TRUE
+Baltimore City,,House of Delegates,,Democratic,Salima Siler Marriott,13013,
+Baltimore City,,House of Delegates,,Democratic,Howard P. Rawlings,13694,TRUE
+Baltimore City,,House of Delegates,,Democratic,Robert L. Clay,1216,
+Baltimore City,,House of Delegates,,Democratic,Frank D. Boston Jr.,14491,TRUE
+Baltimore City,,House of Delegates,,Democratic,Margaret H. Murphy,15114,TRUE
+Baltimore City,,House of Delegates,,Democratic,Nathaniel T. Oaks,13702,TRUE
+Baltimore City,,House of Delegates,,Republican,Edward J. Eagan,2338,
+Baltimore City,,House of Delegates,,Republican,Harry E. Grant,1529,
+Baltimore City,,House of Delegates,,Republican,Daniel S. O'Shea,1504,
+Baltimore City,,House of Delegates,,Democratic,James W. Campbell,15023,TRUE
+Baltimore City,,House of Delegates,,Democratic,Maggie McIntosh,14823,TRUE
+Baltimore City,,House of Delegates,,Democratic,S. I. Sandy Rosenberg,15619,TRUE
+Baltimore,,House of Delegates,,Democratic,James W. Campbell,5921,TRUE
+Baltimore,,House of Delegates,,Democratic,Maggie McIntosh,6017,TRUE
+Baltimore,,House of Delegates,,Democratic,S. I. Sandy Rosenberg,6845,TRUE
+Baltimore City,,House of Delegates,,Democratic,Gerald J. Curran,17779,TRUE
+Baltimore City,,House of Delegates,,Democratic,Ann Marie Doory,16509,TRUE
+Baltimore City,,House of Delegates,,Democratic,Kenneth Charles Montague Jr.,16384,TRUE
+Baltimore City,,House of Delegates,,Democratic,Elijah Cummings,9823,TRUE
+Baltimore City,,House of Delegates,,Democratic,Ruth M. Kirk,9358,TRUE
+Baltimore City,,House of Delegates,,Democratic,Clarence M. Mitchell IV,9838,TRUE
+Baltimore City,,House of Delegates,,Democratic,Talmadge Branch,10728,TRUE
+Baltimore City,,House of Delegates,,Democratic,Clarence Davis,1120,TRUE
+Baltimore City,,House of Delegates,,Democratic,Hattie N. Harrison,11119,TRUE
+Baltimore City,,House of Delegates,,Democratic,Cornell N. Dypski,11794,TRUE
+Baltimore City,,House of Delegates,,Democratic,Peter A. Hammen,11154,TRUE
+Baltimore City,,House of Delegates,,Democratic,Carolyn Krysiak,11447,TRUE
+Baltimore City,,House of Delegates,,Republican,Mark C. Miller,3644,
+Baltimore,,House of Delegates,,Democratic,Cornell N. Dypski,1561,TRUE
+Baltimore,,House of Delegates,,Democratic,Peter A. Hammen,1374,TRUE
+Baltimore,,House of Delegates,,Democratic,Carolyn Krysiak,1554,TRUE
+Baltimore,,House of Delegates,,Republican,Mark C. Miller,1188,
+Baltimore City,,House of Delegates,,Democratic,Brian K. McHale,8154,TRUE
+Baltimore City,,House of Delegates,,Democratic,Gary E. Morse,2004,
+Baltimore City,,House of Delegates,,Democratic,Timothy D. Murphy,8709,TRUE
+Baltimore City,,House of Delegates,,Republican,Anthony F. Forlenza,6,
+Baltimore,,House of Delegates,,Democratic,Thomas E. Dewberry,6280,TRUE
+Baltimore,,House of Delegates,,Republican,Steven Cumby,4509,
+Wicomico,,Judge of the Circuit Court,,Democratic,Alfred T. Truitt Jr.,16458,TRUE
+Baltimore,,Judge of the Circuit Court,,Democratic,Lawrence R. Daniels,75890,TRUE
+Baltimore,,Judge of the Circuit Court,,Both Parties,John O. Hennegan,68604,TRUE
+Garrett,,Judge of the Circuit Court,,Both Parties,Frederick A. Thayer,5576,TRUE
+Washington,,Judge of the Circuit Court,,Both Parties,Darrow Glaser,20617,TRUE
+Washington,,Judge of the Circuit Court,,Both Parties,John H. McDowell,19331,TRUE
+Anne Arundel,,Judge of the Circuit Court,,Both Parties,H. Chester Goudy Jr.,81607,TRUE
+Anne Arundel,,Judge of the Circuit Court,,Both Parties,Raymond G. Thieme Jr.,87316,
+Montgomery,,Judge of the Circuit Court,,Both Parties,D. Warren Donohue,138684,
+Montgomery,,Judge of the Circuit Court,,Both Parties,Ann S. Harrington,144388,TRUE
+Montgomery,,Judge of the Circuit Court,,Both Parties,S. Michael Pincus,135212,TRUE
+Montgomery,,Judge of the Circuit Court,,Both Parties,William P. Turner,133802,TRUE
+Calvert,,Judge of the Circuit Court,,Both Parties,Warren J. Krug,9025,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Vincent J. Femia,81054,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Robert H. Mason,72758,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,C. Philip Nichols Jr.,71737,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,William B. Spellbring Jr.,70976,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Robert J. Woods,75540,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Sylvania W. Woods Sr.,75490,TRUE
+Baltimore City,,Judge of the Circuit Court,,Both Parties,Joseph H. H. Kaplan,65525,TRUE
+Baltimore City,,Judge of the Circuit Court,,Both Parties,Carol E. Smith,59402,TRUE
+Baltimore City,,Judge of the Circuit Court,,Both Parties,Martin P. Welch,54965,TRUE
+Allegany,,Judge of the Circuit Court,,,For,7655,TRUE
+Allegany,,Judge of the Circuit Court,,,Against,2755,
+Anne Arundel,,Judge of the Circuit Court,,,For,78933,TRUE
+Anne Arundel,,Judge of the Circuit Court,,,Against,27828,
+Baltimore City,,Judge of the Circuit Court,,,For,58254,TRUE
+Baltimore City,,Judge of the Circuit Court,,,Against,13541,
+Baltimore,,Judge of the Circuit Court,,,For,78544,TRUE
+Baltimore,,Judge of the Circuit Court,,,Against,26310,
+Calvert,,Judge of the Circuit Court,,,For,7004,TRUE
+Calvert,,Judge of the Circuit Court,,,Against,2225,
+Caroline,,Judge of the Circuit Court,,,For,1378,TRUE
+Caroline,,Judge of the Circuit Court,,,Against,516,
+Carroll,,Judge of the Circuit Court,,,For,25839,TRUE
+Carroll,,Judge of the Circuit Court,,,Against,7879,
+Cecil,,Judge of the Circuit Court,,,For,3999,TRUE
+Cecil,,Judge of the Circuit Court,,,Against,1313,
+Charles,,Judge of the Circuit Court,,,For,10407,TRUE
+Charles,,Judge of the Circuit Court,,,Against,2872,
+Dorchester,,Judge of the Circuit Court,,,For,2502,TRUE
+Dorchester,,Judge of the Circuit Court,,,Against,1038,
+Frederick,,Judge of the Circuit Court,,,For,29626,TRUE
+Frederick,,Judge of the Circuit Court,,,Against,6016,
+Garrett,,Judge of the Circuit Court,,,For,3504,TRUE
+Garrett,,Judge of the Circuit Court,,,Against,1129,
+Harford,,Judge of the Circuit Court,,,For,38658,TRUE
+Harford,,Judge of the Circuit Court,,,Against,14045,
+Howard,,Judge of the Circuit Court,,,For,47466,TRUE
+Howard,,Judge of the Circuit Court,,,Against,9891,
+Kent,,Judge of the Circuit Court,,,For,3414,TRUE
+Kent,,Judge of the Circuit Court,,,Against,950,
+Montgomery,,Judge of the Circuit Court,,,For,131243,TRUE
+Montgomery,,Judge of the Circuit Court,,,Against,25138,
+Prince George's,,Judge of the Circuit Court,,,For,70570,TRUE
+Prince George's,,Judge of the Circuit Court,,,Against,18072,
+Queen Anne's,,Judge of the Circuit Court,,,For,2444,TRUE
+Queen Anne's,,Judge of the Circuit Court,,,Against,782,
+St. Mary's,,Judge of the Circuit Court,,,For,6247,TRUE
+St. Mary's,,Judge of the Circuit Court,,,Against,2332,
+Somerset,,Judge of the Circuit Court,,,For,1181,TRUE
+Somerset,,Judge of the Circuit Court,,,Against,357,
+Talbot,,Judge of the Circuit Court,,,For,3314,TRUE
+Talbot,,Judge of the Circuit Court,,,Against,892,
+Washington,,Judge of the Circuit Court,,,For,18149,TRUE
+Washington,,Judge of the Circuit Court,,,Against,3673,
+Wicomico,,Judge of the Circuit Court,,,For,12264,TRUE
+Wicomico,,Judge of the Circuit Court,,,Against,2809,
+Worcester,,Judge of the Circuit Court,,,For,7815,TRUE
+Worcester,,Judge of the Circuit Court,,,Against,2106,
+Baltimore,,Judge of the Circuit Court,,,For,77280,TRUE
+Baltimore,,Judge of the Circuit Court,,,Against,25410,
+Harford,,Judge of the Circuit Court,,,For,38093,TRUE
+Harford,,Judge of the Circuit Court,,,Against,13790,
+Anne Arundel,,Judge of the Circuit Court,,,For,77505,TRUE
+Anne Arundel,,Judge of the Circuit Court,,,Against,28034,
+Carroll,,Judge of the Circuit Court,,,For,24828,TRUE
+Carroll,,Judge of the Circuit Court,,,Against,8115,
+Howard,,Judge of the Circuit Court,,,For,45630,TRUE
+Howard,,Judge of the Circuit Court,,,Against,10461,

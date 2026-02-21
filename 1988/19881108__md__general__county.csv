@@ -1,0 +1,323 @@
+county,precinct,office,district,party,candidate,votes,winner
+Allegany,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,11844,
+Allegany,,President,,Republican,George Bush/J. Danforth Quayle,17462,TRUE
+Allegany,,President,,Libertarian,Ronald E. Paul/Andre Marrou,158,
+Allegany,,President,,Other,Lenora B. Fulani/Joyce Dattner,39,
+Allegany,,President,,Other,Kyle McDaniel Jr.,0,
+Anne Arundel,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,55440,
+Anne Arundel,,President,,Republican,George Bush/J. Danforth Quayle,98540,TRUE
+Anne Arundel,,President,,Libertarian,Ronald E. Paul/Andre Marrou,814,
+Anne Arundel,,President,,Other,Lenora B. Fulani/Joyce Dattner,307,
+Anne Arundel,,President,,Other,Kyle McDaniel Jr.,0,
+Baltimore City,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,170813,
+Baltimore City,,President,,Republican,George Bush/J. Danforth Quayle,59089,TRUE
+Baltimore City,,President,,Libertarian,Ronald E. Paul/Andre Marrou,963,
+Baltimore City,,President,,Other,Lenora B. Fulani/Joyce Dattner,1479,
+Baltimore City,,President,,Other,Kyle McDaniel Jr.,23,
+Baltimore,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,121570,
+Baltimore,,President,,Republican,George Bush/J. Danforth Quayle,163881,TRUE
+Baltimore,,President,,Libertarian,Ronald E. Paul/Andre Marrou,1332,
+Baltimore,,President,,Other,Lenora B. Fulani/Joyce Dattner,512,
+Baltimore,,President,,Other,Kyle McDaniel Jr.,0,
+Calvert,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,6376,
+Calvert,,President,,Republican,George Bush/J. Danforth Quayle,10956,TRUE
+Calvert,,President,,Libertarian,Ronald E. Paul/Andre Marrou,38,
+Calvert,,President,,Other,Lenora B. Fulani/Joyce Dattner,27,
+Calvert,,President,,Other,Kyle McDaniel Jr.,0,
+Caroline,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,2440,
+Caroline,,President,,Republican,George Bush/J. Danforth Quayle,4661,TRUE
+Caroline,,President,,Libertarian,Ronald E. Paul/Andre Marrou,14,
+Caroline,,President,,Other,Lenora B. Fulani/Joyce Dattner,8,
+Caroline,,President,,Other,Kyle McDaniel Jr.,0,
+Carroll,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,12368,
+Carroll,,President,,Republican,George Bush/J. Danforth Quayle,31224,TRUE
+Carroll,,President,,Libertarian,Ronald E. Paul/Andre Marrou,121,
+Carroll,,President,,Other,Lenora B. Fulani/Joyce Dattner,33,
+Carroll,,President,,Other,Kyle McDaniel Jr.,1,
+Cecil,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,7807,
+Cecil,,President,,Republican,George Bush/J. Danforth Quayle,13224,TRUE
+Cecil,,President,,Libertarian,Ronald E. Paul/Andre Marrou,106,
+Cecil,,President,,Other,Lenora B. Fulani/Joyce Dattner,18,
+Cecil,,President,,Other,Kyle McDaniel Jr.,0,
+Charles,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,11823,
+Charles,,President,,Republican,George Bush/J. Danforth Quayle,20828,TRUE
+Charles,,President,,Libertarian,Ronald E. Paul/Andre Marrou,61,
+Charles,,President,,Other,Lenora B. Fulani/Joyce Dattner,52,
+Charles,,President,,Other,Kyle McDaniel Jr.,0,
+Dorchester,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,3709,
+Dorchester,,President,,Republican,George Bush/J. Danforth Quayle,6343,TRUE
+Dorchester,,President,,Libertarian,Ronald E. Paul/Andre Marrou,63,
+Dorchester,,President,,Other,Lenora B. Fulani/Joyce Dattner,25,
+Dorchester,,President,,Other,Kyle McDaniel Jr.,0,
+Frederick,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,17061,
+Frederick,,President,,Republican,George Bush/J. Danforth Quayle,32575,TRUE
+Frederick,,President,,Libertarian,Ronald E. Paul/Andre Marrou,183,
+Frederick,,President,,Other,Lenora B. Fulani/Joyce Dattner,48,
+Frederick,,President,,Other,Kyle McDaniel Jr.,0,
+Garrett,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,2557,
+Garrett,,President,,Republican,George Bush/J. Danforth Quayle,6665,TRUE
+Garrett,,President,,Libertarian,Ronald E. Paul/Andre Marrou,48,
+Garrett,,President,,Other,Lenora B. Fulani/Joyce Dattner,12,
+Garrett,,President,,Other,Kyle McDaniel Jr.,0,
+Harford,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,19803,
+Harford,,President,,Republican,George Bush/J. Danforth Quayle,38493,TRUE
+Harford,,President,,Libertarian,Ronald E. Paul/Andre Marrou,175,
+Harford,,President,,Other,Lenora B. Fulani/Joyce Dattner,95,
+Harford,,President,,Other,Kyle McDaniel Jr.,0,
+Howard,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,34007,
+Howard,,President,,Republican,George Bush/J. Danforth Quayle,44153,TRUE
+Howard,,President,,Libertarian,Ronald E. Paul/Andre Marrou,217,
+Howard,,President,,Other,Lenora B. Fulani/Joyce Dattner,153,
+Howard,,President,,Other,Kyle McDaniel Jr.,0,
+Kent,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,2925,
+Kent,,President,,Republican,George Bush/J. Danforth Quayle,3761,TRUE
+Kent,,President,,Libertarian,Ronald E. Paul/Andre Marrou,28,
+Kent,,President,,Other,Lenora B. Fulani/Joyce Dattner,18,
+Kent,,President,,Other,Kyle McDaniel Jr.,0,
+Montgomery,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,165187,
+Montgomery,,President,,Republican,George Bush/J. Danforth Quayle,154191,TRUE
+Montgomery,,President,,Libertarian,Ronald E. Paul/Andre Marrou,891,
+Montgomery,,President,,Other,Lenora B. Fulani/Joyce Dattner,627,
+Montgomery,,President,,Other,Kyle McDaniel Jr.,0,
+Prince George's,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,133816,
+Prince George's,,President,,Republican,George Bush/J. Danforth Quayle,86545,TRUE
+Prince George's,,President,,Libertarian,Ronald E. Paul/Andre Marrou,1000,
+Prince George's,,President,,Other,Lenora B. Fulani/Joyce Dattner,1520,
+Prince George's,,President,,Other,Kyle McDaniel Jr.,0,
+Queen Anne's,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,3857,
+Queen Anne's,,President,,Republican,George Bush/J. Danforth Quayle,7803,TRUE
+Queen Anne's,,President,,Libertarian,Ronald E. Paul/Andre Marrou,39,
+Queen Anne's,,President,,Other,Lenora B. Fulani/Joyce Dattner,4,
+Queen Anne's,,President,,Other,Kyle McDaniel Jr.,0,
+St. Mary's,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,7434,
+St. Mary's,,President,,Republican,George Bush/J. Danforth Quayle,12767,TRUE
+St. Mary's,,President,,Libertarian,Ronald E. Paul/Andre Marrou,58,
+St. Mary's,,President,,Other,Lenora B. Fulani/Joyce Dattner,8,
+St. Mary's,,President,,Other,Kyle McDaniel Jr.,0,
+Somerset,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,2911,
+Somerset,,President,,Republican,George Bush/J. Danforth Quayle,4222,TRUE
+Somerset,,President,,Libertarian,Ronald E. Paul/Andre Marrou,24,
+Somerset,,President,,Other,Lenora B. Fulani/Joyce Dattner,31,
+Somerset,,President,,Other,Kyle McDaniel Jr.,0,
+Talbot,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,3948,
+Talbot,,President,,Republican,George Bush/J. Danforth Quayle,8170,TRUE
+Talbot,,President,,Libertarian,Ronald E. Paul/Andre Marrou,56,
+Talbot,,President,,Other,Lenora B. Fulani/Joyce Dattner,25,
+Talbot,,President,,Other,Kyle McDaniel Jr.,0,
+Washington,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,14408,
+Washington,,President,,Republican,George Bush/J. Danforth Quayle,25912,TRUE
+Washington,,President,,Libertarian,Ronald E. Paul/Andre Marrou,274,
+Washington,,President,,Other,Lenora B. Fulani/Joyce Dattner,44,
+Washington,,President,,Other,Kyle McDaniel Jr.,0,
+Wicomico,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,9413,
+Wicomico,,President,,Republican,George Bush/J. Danforth Quayle,16272,TRUE
+Wicomico,,President,,Libertarian,Ronald E. Paul/Andre Marrou,55,
+Wicomico,,President,,Other,Lenora B. Fulani/Joyce Dattner,15,
+Wicomico,,President,,Other,Kyle McDaniel Jr.,0,
+Worcester,,President,,Democratic,Michael S. Dukakis/Lloyd Bentsen,4787,
+Worcester,,President,,Republican,George Bush/J. Danforth Quayle,8430,TRUE
+Worcester,,President,,Libertarian,Ronald E. Paul/Andre Marrou,30,
+Worcester,,President,,Other,Lenora B. Fulani/Joyce Dattner,15,
+Worcester,,President,,Other,Kyle McDaniel Jr.,0,
+Allegany,,U.S. Senator,,Democratic,Paul S. Sarbanes,14991,TRUE
+Allegany,,U.S. Senator,,Republican,Alan L. Keyes,10254,
+Allegany,,U.S. Senator,,Other,Rashaad Ali,0,
+Allegany,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Anne Arundel,,U.S. Senator,,Democratic,Paul S. Sarbanes,77647,TRUE
+Anne Arundel,,U.S. Senator,,Republican,Alan L. Keyes,65053,
+Anne Arundel,,U.S. Senator,,Other,Rashaad Ali,2,
+Anne Arundel,,U.S. Senator,,Other,Imad A. Ahmad,7,
+Baltimore City,,U.S. Senator,,Democratic,Paul S. Sarbanes,175059,TRUE
+Baltimore City,,U.S. Senator,,Republican,Alan L. Keyes,44231,
+Baltimore City,,U.S. Senator,,Other,Rashaad Ali,6,
+Baltimore City,,U.S. Senator,,Other,Imad A. Ahmad,22,
+Baltimore,,U.S. Senator,,Democratic,Paul S. Sarbanes,157701,TRUE
+Baltimore,,U.S. Senator,,Republican,Alan L. Keyes,111251,
+Baltimore,,U.S. Senator,,Other,Rashaad Ali,1,
+Baltimore,,U.S. Senator,,Other,Imad A. Ahmad,15,
+Calvert,,U.S. Senator,,Democratic,Paul S. Sarbanes,7915,TRUE
+Calvert,,U.S. Senator,,Republican,Alan L. Keyes,7890,
+Calvert,,U.S. Senator,,Other,Rashaad Ali,0,
+Calvert,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Caroline,,U.S. Senator,,Democratic,Paul S. Sarbanes,3543,TRUE
+Caroline,,U.S. Senator,,Republican,Alan L. Keyes,2841,
+Caroline,,U.S. Senator,,Other,Rashaad Ali,0,
+Caroline,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Carroll,,U.S. Senator,,Democratic,Paul S. Sarbanes,19305,TRUE
+Carroll,,U.S. Senator,,Republican,Alan L. Keyes,22551,
+Carroll,,U.S. Senator,,Other,Rashaad Ali,1,
+Carroll,,U.S. Senator,,Other,Imad A. Ahmad,3,
+Cecil,,U.S. Senator,,Democratic,Paul S. Sarbanes,10607,TRUE
+Cecil,,U.S. Senator,,Republican,Alan L. Keyes,8022,
+Cecil,,U.S. Senator,,Other,Rashaad Ali,0,
+Cecil,,U.S. Senator,,Other,Imad A. Ahmad,7,
+Charles,,U.S. Senator,,Democratic,Paul S. Sarbanes,16238,TRUE
+Charles,,U.S. Senator,,Republican,Alan L. Keyes,12580,
+Charles,,U.S. Senator,,Other,Rashaad Ali,0,
+Charles,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Dorchester,,U.S. Senator,,Democratic,Paul S. Sarbanes,4979,TRUE
+Dorchester,,U.S. Senator,,Republican,Alan L. Keyes,3881,
+Dorchester,,U.S. Senator,,Other,Rashaad Ali,0,
+Dorchester,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Frederick,,U.S. Senator,,Democratic,Paul S. Sarbanes,23997,TRUE
+Frederick,,U.S. Senator,,Republican,Alan L. Keyes,24423,
+Frederick,,U.S. Senator,,Other,Rashaad Ali,0,
+Frederick,,U.S. Senator,,Other,Imad A. Ahmad,10,
+Garrett,,U.S. Senator,,Democratic,Paul S. Sarbanes,3882,TRUE
+Garrett,,U.S. Senator,,Republican,Alan L. Keyes,3669,
+Garrett,,U.S. Senator,,Other,Rashaad Ali,0,
+Garrett,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Harford,,U.S. Senator,,Democratic,Paul S. Sarbanes,33192,TRUE
+Harford,,U.S. Senator,,Republican,Alan L. Keyes,27992,
+Harford,,U.S. Senator,,Other,Rashaad Ali,0,
+Harford,,U.S. Senator,,Other,Imad A. Ahmad,4,
+Howard,,U.S. Senator,,Democratic,Paul S. Sarbanes,43521,TRUE
+Howard,,U.S. Senator,,Republican,Alan L. Keyes,33602,
+Howard,,U.S. Senator,,Other,Rashaad Ali,2,
+Howard,,U.S. Senator,,Other,Imad A. Ahmad,18,
+Kent,,U.S. Senator,,Democratic,Paul S. Sarbanes,3488,TRUE
+Kent,,U.S. Senator,,Republican,Alan L. Keyes,2349,
+Kent,,U.S. Senator,,Other,Rashaad Ali,0,
+Kent,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Montgomery,,U.S. Senator,,Democratic,Paul S. Sarbanes,198484,TRUE
+Montgomery,,U.S. Senator,,Republican,Alan L. Keyes,119155,
+Montgomery,,U.S. Senator,,Other,Rashaad Ali,0,
+Montgomery,,U.S. Senator,,Other,Imad A. Ahmad,206,
+Prince George's,,U.S. Senator,,Democratic,Paul S. Sarbanes,143485,TRUE
+Prince George's,,U.S. Senator,,Republican,Alan L. Keyes,62476,
+Prince George's,,U.S. Senator,,Other,Rashaad Ali,1,
+Prince George's,,U.S. Senator,,Other,Imad A. Ahmad,56,
+Queen Anne's,,U.S. Senator,,Democratic,Paul S. Sarbanes,5636,TRUE
+Queen Anne's,,U.S. Senator,,Republican,Alan L. Keyes,4996,
+Queen Anne's,,U.S. Senator,,Other,Rashaad Ali,0,
+Queen Anne's,,U.S. Senator,,Other,Imad A. Ahmad,0,
+St. Mary's,,U.S. Senator,,Democratic,Paul S. Sarbanes,10478,TRUE
+St. Mary's,,U.S. Senator,,Republican,Alan L. Keyes,7285,
+St. Mary's,,U.S. Senator,,Other,Rashaad Ali,0,
+St. Mary's,,U.S. Senator,,Other,Imad A. Ahmad,1,
+Somerset,,U.S. Senator,,Democratic,Paul S. Sarbanes,3200,TRUE
+Somerset,,U.S. Senator,,Republican,Alan L. Keyes,2944,
+Somerset,,U.S. Senator,,Other,Rashaad Ali,0,
+Somerset,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Talbot,,U.S. Senator,,Democratic,Paul S. Sarbanes,5523,TRUE
+Talbot,,U.S. Senator,,Republican,Alan L. Keyes,5435,
+Talbot,,U.S. Senator,,Other,Rashaad Ali,0,
+Talbot,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Washington,,U.S. Senator,,Democratic,Paul S. Sarbanes,17513,TRUE
+Washington,,U.S. Senator,,Republican,Alan L. Keyes,17674,
+Washington,,U.S. Senator,,Other,Rashaad Ali,0,
+Washington,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Wicomico,,U.S. Senator,,Democratic,Paul S. Sarbanes,12468,TRUE
+Wicomico,,U.S. Senator,,Republican,Alan L. Keyes,11406,
+Wicomico,,U.S. Senator,,Other,Rashaad Ali,0,
+Wicomico,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Worcester,,U.S. Senator,,Democratic,Paul S. Sarbanes,6314,TRUE
+Worcester,,U.S. Senator,,Republican,Alan L. Keyes,5577,
+Worcester,,U.S. Senator,,Other,Rashaad Ali,0,
+Worcester,,U.S. Senator,,Other,Imad A. Ahmad,0,
+Calvert,,Representative in Congress,,Democratic,Roy Dyson,7386,TRUE
+Calvert,,Representative in Congress,,Republican,Wayne T. Gilchrest,7942,
+Caroline,,Representative in Congress,,Democratic,Roy Dyson,2854,TRUE
+Caroline,,Representative in Congress,,Republican,Wayne T. Gilchrest,3550,
+Cecil,,Representative in Congress,,Democratic,Roy Dyson,8989,TRUE
+Cecil,,Representative in Congress,,Republican,Wayne T. Gilchrest,10047,
+Charles,,Representative in Congress,,Democratic,Roy Dyson,16314,TRUE
+Charles,,Representative in Congress,,Republican,Wayne T. Gilchrest,12616,
+Dorchester,,Representative in Congress,,Democratic,Roy Dyson,4802,TRUE
+Dorchester,,Representative in Congress,,Republican,Wayne T. Gilchrest,4381,
+Harford,,Representative in Congress,,Democratic,Roy Dyson,11357,TRUE
+Harford,,Representative in Congress,,Republican,Wayne T. Gilchrest,10577,
+Kent,,Representative in Congress,,Democratic,Roy Dyson,1912,TRUE
+Kent,,Representative in Congress,,Republican,Wayne T. Gilchrest,4214,
+Queen Anne's,,Representative in Congress,,Democratic,Roy Dyson,3911,TRUE
+Queen Anne's,,Representative in Congress,,Republican,Wayne T. Gilchrest,6636,
+St. Mary's,,Representative in Congress,,Democratic,Roy Dyson,12170,TRUE
+St. Mary's,,Representative in Congress,,Republican,Wayne T. Gilchrest,6871,
+Somerset,,Representative in Congress,,Democratic,Roy Dyson,3847,TRUE
+Somerset,,Representative in Congress,,Republican,Wayne T. Gilchrest,2708,
+Talbot,,Representative in Congress,,Democratic,Roy Dyson,3659,TRUE
+Talbot,,Representative in Congress,,Republican,Wayne T. Gilchrest,7461,
+Wicomico,,Representative in Congress,,Democratic,Roy Dyson,12323,TRUE
+Wicomico,,Representative in Congress,,Republican,Wayne T. Gilchrest,11904,
+Worcester,,Representative in Congress,,Democratic,Roy Dyson,6604,TRUE
+Worcester,,Representative in Congress,,Republican,Wayne T. Gilchrest,5681,
+Baltimore,,Representative in Congress,,Democratic,Joseph Bartenfelder,54365,
+Baltimore,,Representative in Congress,,Republican,Helen Delich Bentley,128747,TRUE
+Harford,,Representative in Congress,,Democratic,Joseph Bartenfelder,8749,
+Harford,,Representative in Congress,,Republican,Helen Delich Bentley,29209,TRUE
+Baltimore City,,Representative in Congress,,Democratic,Benjamin L. Cardin,67455,TRUE
+Baltimore City,,Representative in Congress,,Republican,Ross Z. Pierpont,21077,
+Baltimore,,Representative in Congress,,Democratic,Benjamin L. Cardin,44928,TRUE
+Baltimore,,Representative in Congress,,Republican,Ross Z. Pierpont,18435,
+Howard,,Representative in Congress,,Democratic,Benjamin L. Cardin,21396,TRUE
+Howard,,Representative in Congress,,Republican,Ross Z. Pierpont,10221,
+Anne Arundel,,Representative in Congress,,Democratic,Thomas McMillen,92948,TRUE
+Anne Arundel,,Representative in Congress,,Republican,Bradlyn McClanahan,48471,
+Howard,,Representative in Congress,,Democratic,Thomas McMillen,7961,TRUE
+Howard,,Representative in Congress,,Republican,Bradlyn McClanahan,4334,
+Prince George's,,Representative in Congress,,Democratic,Thomas McMillen,27715,TRUE
+Prince George's,,Representative in Congress,,Republican,Bradlyn McClanahan,6883,
+Prince George's,,Representative in Congress,,Democratic,Steny H. Hoyer,128437,TRUE
+Prince George's,,Representative in Congress,,Republican,John Eugene Sellner,34909,
+Allegany,,Representative in Congress,,Democratic,Beverly B. Byron,19375,TRUE
+Allegany,,Representative in Congress,,Republican,Kenneth W. Halsey,5303,
+Carroll,,Representative in Congress,,Democratic,Beverly B. Byron,30492,TRUE
+Carroll,,Representative in Congress,,Republican,Kenneth W. Halsey,10857,
+Frederick,,Representative in Congress,,Democratic,Beverly B. Byron,39404,TRUE
+Frederick,,Representative in Congress,,Republican,Kenneth W. Halsey,9037,
+Garrett,,Representative in Congress,,Democratic,Beverly B. Byron,6026,TRUE
+Garrett,,Representative in Congress,,Republican,Kenneth W. Halsey,2022,
+Howard,,Representative in Congress,,Democratic,Beverly B. Byron,19733,TRUE
+Howard,,Representative in Congress,,Republican,Kenneth W. Halsey,8418,
+Montgomery,,Representative in Congress,,Democratic,Beverly B. Byron,24446,TRUE
+Montgomery,,Representative in Congress,,Republican,Kenneth W. Halsey,11952,
+Washington,,Representative in Congress,,Democratic,Beverly B. Byron,27277,TRUE
+Washington,,Representative in Congress,,Republican,Kenneth W. Halsey,6939,
+Baltimore City,,Representative in Congress,,Democratic,Kweisi Mfume,104936,TRUE
+Baltimore,,Representative in Congress,,Democratic,Kweisi Mfume,12714,TRUE
+Montgomery,,Representative in Congress,,Democratic,Peter Franchot,102478,
+Montgomery,,Representative in Congress,,Republican,Constance A. Morella,172619,TRUE
+Wicomico,,Judge of the Circuit Court,,Both Parties,D. William Simpson,12684,TRUE
+Kent,,Judge of the Circuit Court,,Both Parties,Elroy G. Boyer,4426,TRUE
+Baltimore,,Judge of the Circuit Court,,Both Parties,Dana Mark Levitz,86752,TRUE
+Baltimore,,Judge of the Circuit Court,,Both Parties,John Grason Turnbull II,102637,TRUE
+Harford,,Judge of the Circuit Court,,Both Parties,Maurice W. Baldwin Jr.,43123,TRUE
+Howard,,Judge of the Circuit Court,,Both Parties,Cornelius F. Sybert Jr.,50272,TRUE
+Frederick,,Judge of the Circuit Court,,Both Parties,Mary Ann Stepler,39602,TRUE
+Montgomery,,Judge of the Circuit Court,,Democratic,Paul H. Weinstein,188621,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,Graydon S. McKee III,102324,TRUE
+Prince George's,,Judge of the Circuit Court,,Both Parties,William D. Missouri,79134,TRUE
+St. Mary's,,Judge of the Circuit Court,,Both Parties,John Hanson Briscoe,12436,TRUE
+Baltimore,,Judge of the Circuit Court,,Both Parties,Roger W. Brown,69986,TRUE
+Baltimore,,Judge of the Circuit Court,,Both Parties,Ellen M. Heller,72463,TRUE
+Baltimore,,Judge of the Circuit Court,,Both Parties,John N. Prevas,62400,TRUE
+Caroline,,Judge of the Circuit Court,,,Yes,3322,TRUE
+Caroline,,Judge of the Circuit Court,,,No,474,
+Cecil,,Judge of the Circuit Court,,,Yes,7620,TRUE
+Cecil,,Judge of the Circuit Court,,,No,1496,
+Dorchester,,Judge of the Circuit Court,,,Yes,3567,TRUE
+Dorchester,,Judge of the Circuit Court,,,No,716,
+Kent,,Judge of the Circuit Court,,,Yes,2321,TRUE
+Kent,,Judge of the Circuit Court,,,No,389,
+Queen Anne's,,Judge of the Circuit Court,,,Yes,4469,TRUE
+Queen Anne's,,Judge of the Circuit Court,,,No,712,
+Somerset,,Judge of the Circuit Court,,,Yes,2089,TRUE
+Somerset,,Judge of the Circuit Court,,,No,471,
+Talbot,,Judge of the Circuit Court,,,Yes,6316,TRUE
+Talbot,,Judge of the Circuit Court,,,No,678,
+Wicomico,,Judge of the Circuit Court,,,Yes,9342,TRUE
+Wicomico,,Judge of the Circuit Court,,,No,1143,
+Worcester,,Judge of the Circuit Court,,,Yes,4691,TRUE
+Worcester,,Judge of the Circuit Court,,,No,678,
+Calvert,,Judge of the Circuit Court,,,Yes,6986,TRUE
+Calvert,,Judge of the Circuit Court,,,No,1316,
+Charles,,Judge of the Circuit Court,,,Yes,15300,TRUE
+Charles,,Judge of the Circuit Court,,,No,2577,
+Prince George's,,Judge of the Circuit Court,,,Yes,115357,TRUE
+Prince George's,,Judge of the Circuit Court,,,No,16357,
+St. Mary's,,Judge of the Circuit Court,,,Yes,8470,TRUE
+St. Mary's,,Judge of the Circuit Court,,,No,1461,
+Baltimore City,,Judge of the Circuit Court,,,Yes,92698,TRUE
+Baltimore City,,Judge of the Circuit Court,,,No,13580,
+Baltimore City,,Judge of the Circuit Court,,,Yes,81063,TRUE
+Baltimore City,,Judge of the Circuit Court,,,No,11909,
